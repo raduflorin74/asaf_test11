@@ -1,0 +1,212 @@
+- id: read_more
+  translation: Detalii
+
+- id: contact_form
+  translation: Formular de contact
+
+- id: send
+  translation: Trimite
+
+- id: contact_info
+  translation: Info de contact
+
+- id: subscribe_newsletter
+  translation: Abonare newsletter
+
+- id: subscribe
+  translation: Aboneaza-te
+
+- id: contact_us
+  translation: Contacteaza-ne
+
+- id: latest_article
+  translation: Ultimul articol
+
+- id: categories
+  translation: Categori
+
+- id: tags
+  translation: Etichete
+
+- id: see_all
+  translation: Vezi tot
+
+- id: apply_now
+  translation: Aplica acum
+
+- id: posted_by
+  translation: Publicat de
+
+- id: date
+  translation: Data
+
+- id: time
+  translation: ora
+
+- id: category
+  translation: Categorie
+
+- id: related_course
+  translation: Similar
+
+- id: duration
+  translation: durata
+
+- id: weekly
+  translation: saptamanal
+
+- id: fee
+  translation: taxa
+
+- id: teacher
+  translation: profesor
+
+- id: location
+  translation: locatie
+
+- id: entry_fee
+  translation: taxa intrare
+
+- id: event_speaker
+  translation: Prezentator
+
+- id: more_event
+  translation: Alte evenimente
+
+- id: join
+  translation: Alatura-te
+
+- id: enter_email
+  translation: Introduceri adresa de email
+
+- id: company
+  translation: companie
+
+- id: links
+  translation: legaturi
+
+- id: courses
+  translation: Cursuri
+
+- id: new_notice
+  translation: Notificare noua
+
+- id: call
+  translation: Sunati
+
+- id: email
+  translation: email
+
+- id: all
+  translation: Tot
+
+- id: interest
+  translation: INTERESE
+
+- id: our_teachers
+  translation: Profesorii nostri
+
+- id: get_quote
+  translation: Doneaza
+
+- id: download
+  translation: Descarcati
+
+- id: subscribe_title
+  translation: Aboneaza-te
+
+- id: subscribe_now
+  translation: Aboneaza-te acum ...
+
+- id: subscribe_content
+  translation: Aboneaza-te pentru a primi cele mai noi articole
+
+- id: gallery
+  translation: Galerie foto
+
+- id: quick_links
+  translation: Linkuri
+
+- id : company
+  translation: Asociatia pentru Sprijinirea Artelor Frumoase
+
+- id : contact_title1
+  translation: "Am vrea sa primim vesti de la tine!"
+
+- id : contact_title2
+  translation: Contacteaza-ne !
+
+- id : contact_address
+  translation: Adresa 
+
+- id : contact_email
+  translation: Email
+
+- id : contact_phone
+  translation: Numere de telefon
+
+- id : contact_phone1
+  translation: Presedinte Adina Rentea 0743490071
+
+- id : contact_phone2
+  translation: Vicepresedinte Eduard Mitcea Uzunov 0722628330
+
+- id : contact_social
+  translation: Ne gasesti si pe retelele sociale
+
+- id : contact_send_a_message
+  translation: Trimite-ne un mesaj
+
+- id : contact_contact_form
+  translation: Formular de contact
+
+- id : contact_success
+  translation: Mesajul a fot trimis cu succes
+
+- id : contact_your_name
+  translation: Nume *
+
+- id : contact_your_email
+  translation: Email *
+
+- id : contact_your_subject
+  translation: Subiect *
+
+- id : contact_your_phone
+  translation: Numar telefon *
+
+- id : contact_your_message
+  translation: Mesaj *
+
+- id : contact_send_message
+  translation: Trimite
+
+- id : contact_conturi
+  translation: Conturi donatii
+
+- id : contact_cont_euro
+  translation: "EURO  : RO89BTRLEURCRT0571154301"
+
+- id : contact_cont_ron
+  translation: "RON : RO42BTRLRONCRT0571154301"
+
+- id : event_date
+  translation: Data
+
+- id : event_location
+  translation: Locatie
+
+- id : event_organizer
+  translation: Organizator
+
+- id : event_button
+  translation: Detalii
+
+- id : event_donate
+  translation: Doneaza acum
+
+- id : event_cta_donate
+  translation: Sprijina evenimentul nostru
+
+- id : event_share
+  translation: Distribuie 

@@ -1,0 +1,212 @@
+- id: read_more
+  translation: Read More
+
+- id: contact_form
+  translation: Contact Form
+
+- id: send
+  translation: send message
+
+- id: contact_info
+  translation: Contact Info
+
+- id: subscribe_newsletter
+  translation: Subscribe Newsletter
+
+- id: subscribe
+  translation: Subscribe
+
+- id: contact_us
+  translation: Contact Us
+
+- id: latest_article
+  translation: Latest Article
+
+- id: categories
+  translation: Categories
+
+- id: tags
+  translation: Tags
+
+- id: see_all
+  translation: See all
+
+- id: apply_now
+  translation: Apply now
+
+- id: posted_by
+  translation: Posted by
+
+- id: date
+  translation: Date
+
+- id: time
+  translation: time
+
+- id: category
+  translation: Category
+
+- id: related_course
+  translation: Related Course
+
+- id: duration
+  translation: duration
+
+- id: weekly
+  translation: weekly
+
+- id: fee
+  translation: fee
+
+- id: teacher
+  translation: teacher
+
+- id: location
+  translation: location
+
+- id: entry_fee
+  translation: entry fee
+
+- id: event_speaker
+  translation: Event Speakers
+
+- id: more_event
+  translation: More Events
+
+- id: join
+  translation: Join
+  
+- id: enter_email
+  translation: Enter your email…
+
+- id: company
+  translation: company
+
+- id: links
+  translation: links
+
+- id: courses
+  translation: Courses
+
+- id: new_notice
+  translation: new notice
+
+- id: call
+  translation: call
+
+- id: email
+  translation: email
+
+- id: all
+  translation: All
+
+- id: interest
+  translation: SUMMARY OF ACTIVITIES/INTERESTS
+
+- id: our_teachers
+  translation: Our Teachers
+
+- id: download
+  translation: Download
+
+- id: get_quote
+  translation: Get a quote
+
+- id: subscribe_title
+  translation: Subscribe Us
+
+- id: subscribe_now
+  translation: Subscribe Now ...
+
+- id: subscribe_content
+  translation: Subscribe to get latest news article and resources
+
+- id: gallery
+  translation: Gallery
+
+- id: quick_links
+  translation: Quick Links
+
+- id : company
+  translation: Asociatia pentru Sprijinirea Artelor Frumoase
+
+- id : contact_title1
+  translation: "We’d love to hear from you!"
+
+- id : contact_title2
+  translation: "Give us call, send us a message?"
+
+- id : contact_address
+  translation: Address 
+
+- id : contact_email
+  translation: Email
+
+- id : contact_phone
+  translation: Phone number
+
+- id : contact_social
+  translation: Find us on social media
+
+- id : contact_phone1
+  translation: President Adina Rentea 0743490071
+
+- id : contact_phone2
+  translation: Vicepresident Eduard Mitcea Uzunov 0722628330
+
+- id : contact_send_a_message
+  translation: Send a message
+
+- id : contact_contact_form
+  translation: Contact Form
+
+- id : contact_success
+  translation: Mesajul a fot trimis cu succes
+
+- id : contact_your_name
+  translation: YOUR NAME *
+
+- id : contact_your_email
+  translation: YOUR EMAIL *
+
+- id : contact_your_subject
+  translation: YOUR SUBJECT *
+
+- id : contact_your_phone
+  translation: YOUR PHONE NUMBER *
+
+- id : contact_your_message
+  translation: OUR MESSAGE *
+
+- id : contact_send_message
+  translation: Send message
+
+- id : contact_conturi
+  translation: Donation Accounts
+
+- id : contact_cont_euro
+  translation: "EURO  : RO89BTRLEURCRT0571154301"
+
+- id : contact_cont_ron
+  translation: "RON : RO42BTRLRONCRT0571154301"
+
+- id : event_date
+  translation: Date
+
+- id : event_location
+  translation: Location
+
+- id : event_organizer
+  translation: Organizer
+
+- id : event_button
+  translation: Read more
+
+- id : event_donate
+  translation: Donate now
+
+- id : event_cta_donate
+  translation: Be a part of noble work
+
+- id : event_share
+  translation: Share Cause

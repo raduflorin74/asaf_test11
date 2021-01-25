@@ -1,0 +1,335 @@
+######################## default configuration ####################
+baseURL = ""
+languageCode = "ro-ro"
+DefaultContentLanguage = "ro"
+lang = "ro-ro"
+title = "ASAF"
+theme = "wishfund-hugo"
+summaryLength = "10"
+paginate = 6
+
+
+
+[outputs]
+  home = ["HTML", "AMP", "RSS", "JSON"]
+
+######################### Plugins #################################
+[params.plugins]
+
+# CSS Plugins
+[[params.plugins.css]]
+URL = "plugins/bootstrap/css/bootstrap.min.css"
+[[params.plugins.css]]
+URL = "plugins/themify/css/themify-icons.css"
+[[params.plugins.css]]
+URL = "plugins/magnific-popup/dist/magnific-popup.css"
+[[params.plugins.css]]
+URL = "plugins/slick-carousel/slick/slick.css"
+
+# JS Plugins
+[[params.plugins.js]]
+URL = "plugins/jquery/jquery.js"
+[[params.plugins.js]]
+URL = "plugins/bootstrap/js/bootstrap.min.js"
+[[params.plugins.js]]
+URL = "plugins/magnific-popup/dist/jquery.magnific-popup.min.js"
+[[params.plugins.js]]
+URL = "plugins/slick-carousel/slick/slick.min.js"
+[[params.plugins.js]]
+URL = "plugins/reading-time/readingTime.min.js"
+[[params.plugins.js]]
+URL = "plugins/search/fuse.min.js"
+[[params.plugins.js]]
+URL = "plugins/search/mark.js"
+[[params.plugins.js]]
+URL = "plugins/search/search.js"
+[[params.plugins.js]]
+URL = "plugins/google-map/map.js"
+  
+#######################
+
+[params]
+logo = "images/logo.png"
+home = "Home"
+# Contact Information
+phone = "+40743490071"
+phone2 = "Presedinte Adina Rentea 0743490071, Vicepresedinte Eduard Mitcea Uzunov 0722628330"
+email = "asprijinartefrumoase@gmail.com"
+location = "Strada Constantin Esarcu nr.3, apt2, Sector 1, Bucuresti"
+copyright = "&copy; 2019 a theme by [themefisher](https://themefisher.com/)"
+# Meta data
+description = "This is meta description"
+author = "Themefisher"
+# google map
+gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
+mapLatitude = "51.5223477"
+mapLongitude = "-0.1622023"
+mapMarker = "/images/marker.png"
+# Google Analitycs
+googleAnalitycsID = "Your ID"
+
+# Preloader
+[params.preloader]
+enable = true
+
+# Navigation top header
+[params.topHeader]
+enable = true
+
+# Navigation button
+[params.navBtn]
+enable = true
+#label = "Get a quote"
+link = "donation"
+
+# Subscription
+[params.subscription]
+title = "Subscribe Us"
+content = "Subscribe to get latest news article and resources"
+
+
+#################### social icon ######################################
+[[params.social]]
+name = "Facebook"
+icon = "ti-facebook" # themify icon pack https://themify.me/themify-icons
+link = "#"
+
+[[params.social]]
+name = "Twitter"
+icon = "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
+link = "#"
+
+[[params.social]]
+name = "Vimeo"
+icon = "ti-vimeo-alt" # themify icon pack https://themify.me/themify-icons
+link = "#"
+
+[[params.social]]
+name = "Github"
+icon = "ti-github" # themify icon pack https://themify.me/themify-icons
+link = "#"
+
+############################# post share links ######################
+[[params.postShare]]
+icon = "ti-facebook" # themify icon pack https://themify.me/themify-icons
+name = "facebook"
+link = "#"
+
+[[params.postShare]]
+icon = "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
+name = "twitter"
+link = "#"
+
+[[params.postShare]]
+icon = "ti-linkedin" # themify icon pack https://themify.me/themify-icons
+name = "linkedin"
+link = "#"
+
+[[params.postShare]]
+icon = "ti-pinterest" # themify icon pack https://themify.me/themify-icons
+name = "pinterest"
+link = "#"
+
+
+
+############################## navigation ###############################
+[Languages]
+################################### Romanian language #####################################
+[Languages.ro]
+title = "ASAF- RO"
+languageName = "Ro 🇷🇴"
+languageCode = "ro-ro"
+contentDir = "content/romanian"
+home = "Acasa"
+# copyright
+copyright = "Copyright &copy; 2020 Creat de [RFS](https://rf-software.com)"
+
+
+################### Romanian navigation ####################
+
+# main menu
+[[Languages.ro.menu.main]]
+name = "Despre noi"
+URL = "about"
+weight = 1
+
+#[[Languages.ro.menu.main]]
+#name = "Blog"
+#URL = "blog"
+#weight = 2
+
+[[Languages.ro.menu.main]]
+name = "Galerie"
+URL = "gallery"
+weight = 2
+
+[[Languages.ro.menu.main]]
+name = "Proiecte"
+URL = "causes"
+weight = 3
+
+[[Languages.ro.menu.main]]
+weight = 4
+name = "Implica-te"
+hasChildren = true
+
+  [[Languages.ro.menu.main]]
+  parent = "Implica-te"
+  name = "Doneaza"
+  URL = "donation"
+
+  [[Languages.ro.menu.main]]
+  parent = "Implica-te"
+  name = "Voluntariat"
+  URL = "volunteer"
+  
+[[Languages.ro.menu.main]]
+name = "Evenimente"
+#URL = "event"
+weight = 5
+
+  [[Languages.ro.menu.main]]
+  parent = "Evenimente"
+  name = "In prezent"
+  URL = "event"
+
+  [[Languages.ro.menu.main]]
+  parent = "Evenimente"
+  name = "In trecut"
+  URL = "event"
+
+  [[Languages.ro.menu.main]]
+  parent = "Evenimente"
+  name = "In viitor"
+  URL = "event"
+
+[[Languages.ro.menu.main]]
+name = "Contact"
+URL = "contact"
+weight = 6
+
+
+# footer menu En
+
+
+[[Languages.ro.menu.footer]]
+name = "Servicii"
+URL = "service"
+weight = 1
+
+[[Languages.ro.menu.footer]]
+name = "Despre noi"
+URL = "about"
+weight = 2
+
+[[Languages.ro.menu.footer]]
+name = "Galerie"
+URL = "blog"
+weight = 3
+
+[[Languages.ro.menu.footer]]
+name = "Preturi"
+URL = "pricing"
+weight = 4
+
+################################### English language #####################################
+[Languages.en]
+title = "ASAF-EN"
+languageName = "En 🇬🇧"
+languageCode = "en-us"
+contentDir = "content/english"
+home = "Home"
+# copyright
+copyright = "Copyright &copy; 2021 Created by [RFS](https://rf-software.com)"
+
+
+################### English navigation ####################
+
+# main menu
+[[Languages.en.menu.main]]
+name = "About"
+URL = "about"
+weight = 1
+
+#[[Languages.en.menu.main]]
+#name = "Blog"
+#URL = "blog"
+#weight = 2
+
+[[Languages.en.menu.main]]
+name = "Gallery"
+URL = "gallery"
+weight = 2
+
+[[Languages.en.menu.main]]
+name = "Causes"
+URL = "causes"
+weight = 3
+
+[[Languages.en.menu.main]]
+weight = 4
+name = "Get Involved"
+hasChildren = true
+
+  [[Languages.en.menu.main]]
+  parent = "Get Involved"
+  name = "Donation"
+  URL = "donation"
+
+  [[Languages.en.menu.main]]
+  parent = "Get Involved"
+  name = "Volunteer"
+  URL = "volunteer"
+  
+[[Languages.en.menu.main]]
+name = "Events"
+#URL = "event"
+weight = 5
+
+  [[Languages.en.menu.main]]
+  parent = "Events"
+  name = "In the present"
+  URL = "event"
+
+  [[Languages.en.menu.main]]
+  parent = "Events"
+  name = "In the past"
+  URL = "event"
+
+  [[Languages.en.menu.main]]
+  parent = "Events"
+  name = "In the future"
+  URL = "event"
+
+[[Languages.en.menu.main]]
+name = "Contact"
+URL = "contact"
+weight = 6
+
+
+# footer menu En
+
+
+[[Languages.en.menu.footer]]
+name = "service"
+URL = "service"
+weight = 1
+
+[[Languages.en.menu.footer]]
+name = "about"
+URL = "about"
+weight = 2
+
+[[Languages.en.menu.footer]]
+name = "Gallery"
+URL = "blog"
+weight = 3
+
+[[Languages.en.menu.footer]]
+name = "pricing"
+URL = "pricing"
+weight = 4
+
+
+#######################
+
