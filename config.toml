@@ -219,23 +219,23 @@ weight = 6
 
 
 [[Languages.ro.menu.footer]]
-name = "Servicii"
-URL = "service"
+name = "Acasa"
+URL = ""
 weight = 1
 
 [[Languages.ro.menu.footer]]
-name = "Despre noi"
-URL = "about"
+name = "Proiecte"
+URL = "causes"
 weight = 2
 
 [[Languages.ro.menu.footer]]
 name = "Galerie"
-URL = "blog"
+URL = "gallery"
 weight = 3
 
 [[Languages.ro.menu.footer]]
-name = "Preturi"
-URL = "pricing"
+name = "Evenimente"
+URL = "event"
 weight = 4
 
 ################################### English language #####################################
@@ -317,23 +317,23 @@ weight = 6
 
 
 [[Languages.en.menu.footer]]
-name = "service"
-URL = "service"
+name = "Home"
+URL = ""
 weight = 1
 
 [[Languages.en.menu.footer]]
-name = "about"
-URL = "about"
+name = "Projects"
+URL = "causes"
 weight = 2
 
 [[Languages.en.menu.footer]]
 name = "Gallery"
-URL = "blog"
+URL = "gallery"
 weight = 3
 
 [[Languages.en.menu.footer]]
-name = "pricing"
-URL = "pricing"
+name = "Events"
+URL = "event"
 weight = 4
 
 
