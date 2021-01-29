@@ -210,3 +210,99 @@
 
 - id : event_share
   translation: Share Cause
+
+- id : volunteer_title1
+  translation: Join With Us
+
+- id : volunteer_title2
+  translation: Become an Ambasador
+
+- id : volunteer_full_name
+  translation: Full Name
+
+- id : volunteer_email
+  translation: Email Address
+
+- id : volunteer_phone
+  translation: Phone Number
+
+- id : volunteer_address
+  translation: Address
+
+- id : volunteer_ocupation
+  translation: Occupation
+
+- id : volunteer_message
+  translation: Your Message
+
+- id : volunteer_submit
+  translation: Send Message
+
+- id : donation_title1
+  translation: I want to support you
+
+- id : donation_title2
+  translation: Domate below ...
+
+- id : donation_donation_cta
+  translation: Donation
+
+- id : donation_option1
+  translation: 100 EUR
+
+- id : donation_option2
+  translation: 50 EUR
+
+- id : donation_option3
+  translation: 10 EUR
+
+- id : donation_other_amount
+  translation: Other amount
+
+- id : donation_pay_method
+  translation: Select Payment Method
+
+- id : donation_card
+  translation: Credit Card
+
+- id : donation_transfer
+  translation: Bank Transfer
+
+- id : donation_donor_details
+  translation: Donor Details
+
+- id : donation_donor_name
+  translation: Your Name
+
+- id : donation_donor_email
+  translation: Email
+
+- id : donation_donor_phone
+  translation: Phone
+
+- id : donation_donor_country
+  translation: Country
+
+- id : donation_donor_address
+  translation: Address
+
+- id : donation_donor_city
+  translation: City
+
+- id : donation_donor_anonymus
+  translation: Anonymous donation
+
+- id : donation_anonymus_box
+  translation: Check this box to hide your personal info in our donators list
+
+- id : donation_donor_consent1
+  translation: I give my
+
+- id : donation_donor_consent2
+  translation: consent for authorized representatives
+
+- id : donation_donor_consent3
+  translation: of ASAF to contact me occasionally by mobile and email for informing on the latest developments and updated offerings.
+
+- id : donation_donate_now
+  translation: Donate Now

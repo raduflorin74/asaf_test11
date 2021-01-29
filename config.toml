@@ -25,6 +25,8 @@ URL = "plugins/themify/css/themify-icons.css"
 URL = "plugins/magnific-popup/dist/magnific-popup.css"
 [[params.plugins.css]]
 URL = "plugins/slick-carousel/slick/slick.css"
+[[params.plugins.css]]
+URL = "plugins/slick-carousel/slick/slick.css"
 
 # JS Plugins
 [[params.plugins.js]]
@@ -45,7 +47,7 @@ URL = "plugins/search/mark.js"
 URL = "plugins/search/search.js"
 [[params.plugins.js]]
 URL = "plugins/google-map/map.js"
-  
+
 #######################
 
 [params]
@@ -65,6 +67,7 @@ gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSp
 mapLatitude = "51.5223477"
 mapLongitude = "-0.1622023"
 mapMarker = "/images/marker.png"
+
 # Google Analitycs
 googleAnalitycsID = "Your ID"
 
@@ -87,6 +90,9 @@ link = "donation"
 title = "Subscribe Us"
 content = "Subscribe to get latest news article and resources"
 
+# search
+[params.search]
+enable = true
 
 #################### social icon ######################################
 [[params.social]]
@@ -148,10 +154,10 @@ copyright = "Copyright &copy; 2020 Creat de [RFS](https://rf-software.com)"
 ################### Romanian navigation ####################
 
 # main menu
-[[Languages.ro.menu.main]]
-name = "Despre noi"
-URL = "about"
-weight = 1
+#[[Languages.ro.menu.main]]
+#name = "Despre noi"
+#URL = "about"
+#weight = 1
 
 #[[Languages.ro.menu.main]]
 #name = "Blog"
@@ -246,10 +252,10 @@ copyright = "Copyright &copy; 2021 Created by [RFS](https://rf-software.com)"
 ################### English navigation ####################
 
 # main menu
-[[Languages.en.menu.main]]
-name = "About"
-URL = "about"
-weight = 1
+#[[Languages.en.menu.main]]
+#name = "About"
+#URL = "about"
+#weight = 1
 
 #[[Languages.en.menu.main]]
 #name = "Blog"

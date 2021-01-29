@@ -7,57 +7,54 @@
     <div class="row">
       <div class="col-lg-8">
         <div class="donation-wrap">
-          <h2 class="text-md mb-4">I want to support you</h2>
-          <p class="mb-5 lead">Soluta odit consequuntur adipisci consectetur culpa sequi exercitationem molestias
-            dolores saepe, aut, ratione quam recusandae nulla. Beatae eius, voluptas.</p>
+          <h2 class="text-md mb-4">{{ i18n "donation_title1" }}</h2>
+          <p class="mb-5 lead">{{ i18n "donation_title2" }}</p>
 
           <form class="donation-form">
             <fieldset class="form-group">
               <div class="row">
-                <label class="col-form-label col-sm-3 pt-0 h3">Donation</label>
+                <label class="col-form-label col-sm-3 pt-0 h3">{{ i18n "donation_donation_cta" }}</label>
                 <div class="col-sm-9">
                   <div class="form-check">
                     <input class="form-check-input" type="radio" name="gridRadios" id="gridRadios1" value="option1"
                       checked>
                     <label class="form-check-label" for="gridRadios1">
-                      Rs. 30,000/- (for the education of 5 children for 1 year)
+                      {{ i18n "donation_option1" }}
                     </label>
                   </div>
 
                   <div class="form-check">
                     <input class="form-check-input" type="radio" name="gridRadios" id="gridRadios2" value="option2">
                     <label class="form-check-label" for="gridRadios2">
-                      Rs. 18,000/- (for the education of 3 children for 1 year)
+                      {{ i18n "donation_option2" }}
                     </label>
                   </div>
 
                   <div class="form-check">
                     <input class="form-check-input" type="radio" name="gridRadios" id="gridRadios3" value="option3">
                     <label class="form-check-label" for="gridRadios3">
-                      Rs. 6,000/- (for the education of 1 child for 1 year)
+                      {{ i18n "donation_option3" }}
                     </label>
                   </div>
                   <div class="form-group row">
-                    <label class="col-sm-4 col-form-label">Other amount: </label>
+                    <label class="col-sm-4 col-form-label">{{ i18n "donation_other_amount" }}: </label>
                     <div class="col-sm-8">
-                      <input type="number" class="form-control" id="inputamount" placeholder="25000">
+                      <input type="number" class="form-control" id="inputamount" placeholder="500">
                     </div>
                   </div>
                 </div>
               </div>
 
               <div class="form-group">
-                <label class="col-form-label mb-3 h3">Select Payment Method</label>
+                <label class="col-form-label mb-3 h3">{{ i18n "donation_pay_method" }}</label>
                 <ul class="list-group list-group-horizontal-lg">
-                  <li class="list-group-item"><a href="#"><i class="icofont-mastercard-alt mr-2"></i>Credit Card</a>
+                  <li class="list-group-item"><a href="#"><i class="icofont-mastercard-alt mr-2"></i>{{ i18n "donation_card" }}</a>
                   </li>
-                  <li class="list-group-item"><a href="#"><i class="icofont-bank-transfer-alt mr-2"></i>Bank
-                      Transfer</a></li>
-                  <li class="list-group-item"><a href="#"><i class="icofont-payoneer-alt mr-2"></i>Payoneer</a></li>
+                  <li class="list-group-item"><a href="#"><i class="icofont-bank-transfer-alt mr-2"></i>{{ i18n "donation_transfer" }}</a></li>
                 </ul>
               </div>
 
-              <h3 class="mb-4 mt-5 border-bottom pb-3">Your account Credential</h3>
+<!--               <h3 class="mb-4 mt-5 border-bottom pb-3">Your account Credential</h3>
               <div class="form-group">
                 <label class="col-form-label mb-2">Name on card</label>
                 <input type="text" class="form-control" id="paycardname" placeholder="Your Name">
@@ -65,9 +62,9 @@
               <div class="form-group">
                 <label class="col-form-label mb-2">Card Number</label>
                 <input type="text" class="form-control" id="paycardnumber" placeholder="0000-0000-0000-0000">
-              </div>
+              </div> -->
 
-              <div class="form-row">
+<!--               <div class="form-row">
                 <div class="form-group col-md-4">
                   <label>Month</label>
                   <select id="inputmonth" class="form-control">
@@ -89,22 +86,22 @@
                   <label>CVV</label>
                   <input type="text" class="form-control" id="inputZip">
                 </div>
-              </div>
+              </div> -->
 
             </fieldset>
 
 
-            <h2 class="mb-5 mt-5 border-bottom pb-3">Donor Details</h2>
+            <h2 class="mb-5 mt-5 border-bottom pb-3">{{ i18n "donation_donor_details" }}</h2>
 
             <div class="form-group row">
-              <label class="col-sm-3 col-form-label">Your Name</label>
+              <label class="col-sm-3 col-form-label">{{ i18n "donation_donor_name" }}</label>
               <div class="col-sm-9">
                 <input type="text" class="form-control" id="inputname" placeholder="Your Name">
               </div>
             </div>
 
             <div class="form-group row">
-              <label class="col-sm-3 col-form-label">Email</label>
+              <label class="col-sm-3 col-form-label">{{ i18n "donation_donor_email" }}</label>
               <div class="col-sm-9">
                 <input type="email" class="form-control" id="inputEmail3" placeholder="Email">
               </div>
@@ -112,14 +109,14 @@
 
 
             <div class="form-group row">
-              <label class="col-sm-3 col-form-label">Phone</label>
+              <label class="col-sm-3 col-form-label">{{ i18n "donation_donor_phone" }}</label>
               <div class="col-sm-9">
                 <input type="number" class="form-control" id="inputphone" placeholder="Phone">
               </div>
             </div>
 
             <div class="form-group row">
-              <label class="col-sm-3 col-form-label">Country</label>
+              <label class="col-sm-3 col-form-label">{{ i18n "donation_donor_country" }}</label>
               <div class="col-sm-9">
                 <select id="inputState" class="form-control">
                   <option selected>Choose Country</option>
@@ -135,14 +132,14 @@
               </div>
             </div>
             <div class="form-group row">
-              <label class="col-sm-3 col-form-label">Address</label>
+              <label class="col-sm-3 col-form-label">{{ i18n "donation_donor_address" }}</label>
               <div class="col-sm-9">
                 <input type="text" class="form-control" id="inputname2" placeholder="Your Name">
               </div>
             </div>
 
             <div class="form-group row">
-              <label class="col-sm-3 col-form-label">City</label>
+              <label class="col-sm-3 col-form-label">{{ i18n "donation_donor_city" }}</label>
               <div class="col-sm-9">
                 <input type="text" class="form-control" id="inputname3" placeholder="Your Name">
               </div>
@@ -150,13 +147,13 @@
 
             <div class="form-group row">
               <div class="col-sm-3">
-                <strong>Anonymous donation?</strong>
+                <strong>{{ i18n "donation_donor_anonymus" }}?</strong>
               </div>
               <div class="col-sm-9">
                 <div class="form-check">
                   <input class="form-check-input" type="checkbox" id="gridCheck1">
                   <label class="form-check-label">
-                    Check this box to hide your personal info in our donators list
+                    {{ i18n "donation_anonymus_box" }}
                   </label>
                 </div>
               </div>
@@ -166,9 +163,7 @@
                 <div class="form-check">
                   <input class="form-check-input" type="checkbox" id="gridCheck2">
                   <label class="form-check-label">
-                    I give my <span class="font-weight-bold">consent for authorized representatives</span> of Smile
-                    Foundation to contact me occasionally by mobile and email for informing on the latest developments
-                    and updated offerings.
+                    {{ i18n "donation_donor_consent1" }}<span class="font-weight-bold">{{ i18n "donation_donor_consent2" }}</span> {{ i18n "donation_donor_consent3" }}
                   </label>
                 </div>
               </div>
@@ -176,7 +171,7 @@
 
             <div class="form-group row mt-4">
               <div class="col-sm-10">
-                <a href="confirmation.html" class="btn btn-main-2 rounded">Donate Now</a>
+                <a href="confirmation.html" class="btn btn-main-2 rounded">{{ i18n "donation_donate_now" }}</a>
               </div>
             </div>
           </form>

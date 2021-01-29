@@ -425,3 +425,62 @@ a {
     }
   }
 }
+
+/* search */
+.search-btn {
+  border: 0;
+  background: transparent;
+  border-right: 1px solid $border-color;
+  border-left: 1px solid $border-color;
+}
+
+.search-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  z-index: 2;
+  visibility: hidden;
+  transition: .2s ease;
+  opacity: 0;
+
+  &.open {
+    visibility: visible;
+    opacity: 1;
+  }
+}
+
+.search-box {
+  height: 100%;
+  width: 100%;
+  border: 0;
+  background: $white;
+  font-size: 20px;
+  padding: 0;
+
+  &:focus {
+    box-shadow: none !important;
+  }
+
+}
+
+.search-close {
+  position: absolute;
+  right: 5px;
+  top: 50%;
+  transform: translateY(-50%);
+  border: 0;
+  background: transparent;
+  page-break-after: 10px;
+  font-size: 20px;
+}
+
+/* clears the ‘X’ from Internet Explorer */
+input[type=search]::-ms-clear { display: none; width : 0; height: 0; }
+input[type=search]::-ms-reveal { display: none; width : 0; height: 0; }
+/* clears the ‘X’ from Chrome */
+input[type="search"]::-webkit-search-decoration,
+input[type="search"]::-webkit-search-cancel-button,
+input[type="search"]::-webkit-search-results-button,
+input[type="search"]::-webkit-search-results-decoration { display: none; }

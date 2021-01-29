@@ -6,4 +6,3 @@ description : "this is a meta description"
 bgImage: "images/bg/bg-3.jpg"
 url: "gallery"
 ---
-

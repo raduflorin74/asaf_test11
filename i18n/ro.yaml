@@ -210,3 +210,99 @@
 
 - id : event_share
   translation: Distribuie 
+
+- id : volunteer_title1
+  translation: Alatura-te echipei noastre
+
+- id : volunteer_title2
+  translation: Devino Ambasador
+
+- id : volunteer_full_name
+  translation: Nume si Prenume
+
+- id : volunteer_email
+  translation: Email
+
+- id : volunteer_phone
+  translation: Numar telefon
+
+- id : volunteer_address
+  translation: Adresa
+
+- id : volunteer_ocupation
+  translation: Profesie
+
+- id : volunteer_message
+  translation: Mesaj
+
+- id : volunteer_submit
+  translation: Trimite
+
+- id : donation_title1
+  translation: Doresc sa ajut
+
+- id : donation_title2
+  translation: Doneaza mai jos ...
+
+- id : donation_donation_cta
+  translation: Donatie
+
+- id : donation_option1
+  translation: 100 RON
+
+- id : donation_option2
+  translation: 50 RON
+
+- id : donation_option3
+  translation: 10 RON
+
+- id : donation_other_amount
+  translation: Alta suma
+
+- id : donation_pay_method
+  translation: Selectati metoda de plata
+
+- id : donation_card
+  translation: Card
+
+- id : donation_transfer
+  translation: Transfer Bancar
+
+- id : donation_donor_details
+  translation: Detalii persoana care doneaza
+
+- id : donation_donor_name
+  translation: Nume
+
+- id : donation_donor_email
+  translation: Email
+
+- id : donation_donor_phone
+  translation: Numar Telefon
+
+- id : donation_donor_country
+  translation: Tara
+
+- id : donation_donor_address
+  translation: Adresa
+
+- id : donation_donor_city
+  translation: Oras
+
+- id : donation_donor_anonymus
+  translation: Donator anonim
+
+- id : donation_anonymus_box
+  translation: Bifati casuta daca doriti acunderea informatiilor personale
+
+- id : donation_donor_consent1
+  translation: Sunt de acord
+
+- id : donation_donor_consent2
+  translation: ca persoanele reprezentative
+
+- id : donation_donor_consent3
+  translation: ale ASAF sa ma contacteze ocazional prin telefon sau email cu privire la evenimentele noaste.
+
+- id : donation_donate_now
+  translation: Donez

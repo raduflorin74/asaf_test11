@@ -2,6 +2,10 @@
 
 {{ partial "page-title.html" . }}
 
+<!-- {{ if .Params.maps }} -->
+    {{ partial "leaflet-loader" . }}
+<!-- {{ end }} -->
+
 {{ $data := index site.Data site.Language.Lang }}
 
   <div class="container">
@@ -85,6 +89,7 @@
             data-longitude="{{ with .Site.Params.mapLongitude }} {{ . }} {{ end }}"
             data-marker="{{ with .Site.Params.mapMarker }} {{ . | absURL }} {{ end }}"></div>
         </div>
+        
       </div>
   </div>
 </div>

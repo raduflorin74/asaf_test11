@@ -128,5 +128,34 @@
     });
   });
 
+	//  Search Form Open
+	$('#searchOpen').on('click', function () {
+	  $('.search-wrapper').addClass('open');
+	  // $('#search-query').select();
+	  // $('#search-query').focus();
+   //    $('#search-query').setSelectionRange($('#search-query').value.length,$('#search-query').value.length,"forward");
+
+	});
+	$('#searchClose').on('click', function () {
+	  $('.search-wrapper').removeClass('open');
+	});
+
+	// featured post slider
+	$('.featured-post-slider').slick({
+	  infinite: true,
+	  vertical: true,
+	  verticalSwiping: true,
+	  arrows: false,
+	  dots: true,
+	  responsive: [{
+	    breakpoint: 600,
+	    settings: {
+	      vertical: false,
+	      verticalSwiping: false,
+	    }
+	  }]
+	});
+
+
 
 })(jQuery);
