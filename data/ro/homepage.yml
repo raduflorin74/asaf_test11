@@ -20,28 +20,28 @@ intro:
   introItem:
     # intro item loop
     - title : "Get inspired"
-      image : "images/about/image-1.jpg"
+      image : "images/about/principii1.jpg"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit, ducimus."
       
     # intro item loop
     - title : "Give Donation"
-      image : "images/about/image-2.jpg"
+      image : "images/about/principii2.jpg"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit, ducimus."
       
     # intro item loop
     - title : "Become a Volunteer"
-      image : "images/about/image-3.jpg"
+      image : "images/about/principii3.jpg"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit, ducimus."
       
     # intro item loop
     - title : "Help The children"
-      image : "images/about/image-1.jpg"
+      image : "images/about/principii4.jpg"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit, ducimus."
 
 ########################### about ###############################
 about:
   enable : true
-  image : "images/about/img-3.jpg"
+  image : "images/about/misiune.jpg"
   title : "Misiunea noastra"
   leadContent : "Charite is the world’s #1 fundraising site forcharitable causes. Raise money for over 1.5
             million charities."
@@ -89,7 +89,7 @@ team:
     # team member loop
     - name : "Rentea C. Adina"
       designation : "Presedinte"
-      image : "images/team/volunteer-img1.1.jpg"
+      image : "images/team/presedinte.jpg"
       social:
         - name : "facebook"
           icon : "ti-facebook" # themify icon pack https://themify.me/themify-icons
