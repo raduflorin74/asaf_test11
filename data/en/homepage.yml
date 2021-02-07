@@ -1,9 +1,9 @@
 ################################ Banner ##############################
 banner:
   enable : true
-  subtitle : "Small Help Can Make Change"
-  title : "New hope for <br> near future"
-  content : "Your small contribution means a lot. Natus officia amet hic <br> accusamus repellat magni reprehenderit dolorem."
+  subtitle : "ROTENBBERG - UZUNOV Art Gallery."
+  title : "Art gives Hope"
+  content : "Small Help Can Make Change. Your contribution means a lot."
   button:
     enable : true
     label : "Donate Now"
@@ -12,31 +12,37 @@ banner:
 ############################# Intro ##################################
 intro:
   enable: true
-  subtitle : "What we can do"
-  title : "We Believe that We can <br>Save More Lifes with you"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt, dicta, iure. Esse quasi labore aperiam,
-          dolorem amet voluptas soluta asperiores nostrum voluptate molestias numquam similique. Voluptate natus
-          corporis ex, distinctio."
+  subtitle : "What we believe in"
+  title : "Fundamental Principles"
+  content : " Started with very little funding and a small number of staff, the association has been working ambitiously to fulfill its aim, utilizing limited resources and bringing together people and organizations, who share their enthusiasm for the support of art in Romania."
   introItem:
     # intro item loop
-    - title : "Get inspired"
-      image : "images/about/image-1.jpg"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit, ducimus."
+    - title : "Pride"
+      image : "images/about/principii1.jpg"
+      content : "We take pride in what we do. We strive to be the best version of ourselves and better serve the romanian artists"
       
     # intro item loop
-    - title : "Give Donation"
-      image : "images/about/image-2.jpg"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit, ducimus."
+    - title : "Creativity"
+      image : "images/about/principii2.jpg"
+      content : "We embrace new ways of thinking and push boundaries to challenge conventional ideas to meet or exceed expectations of our customers."
       
     # intro item loop
-    - title : "Become a Volunteer"
-      image : "images/about/image-3.jpg"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit, ducimus."
+    - title : "Passion"
+      image : "images/about/principii3.jpg"
+      content : "We approach every day with a positive ‘can do’ attitude. We share an innate desire to grow, learn and challenge ourselves."
       
     # intro item loop
-    - title : "Help The children"
-      image : "images/about/image-1.jpg"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit, ducimus."
+    - title : "Teamwork"
+      image : "images/about/principii4.jpg"
+      content : "We are respectful and supportive of one another. We lead and learn from each other in innovation and knowledge."
+
+########################### about ###############################
+about:
+  enable : true
+  image : "images/about/misiune.jpg"
+  title : "Misiunea noastra"
+  leadContent : "ASAF is a non-governmental organization established in 2020 with the aim to support and promote  art in Romania"
+  content : "The Association implements strategically important projects to improve competitive capacity of Romanian artists at domestic and international platforms, through involving them in various exhibitions and artistic collaborative projects and works to raise public awareness on social, environmental, political issues through art."
 
 ################################# Video ###############################
 video:
@@ -65,21 +71,86 @@ funfacts:
     - title : "Million People Helped"
       count: "54"
 
+############################### Team ##############################
+team:
+  enable : true
+  subtitle : "Management"
+  title : "Board of Directors"
+  button:
+    enable : false
+    label : "Become a volunteer"
+    link : "volunteer"
+  teamMember:
+    # team member loop
+    - name : "Rentea C. Adina"
+      designation : "President"
+      image : "images/team/presedinte.jpg"
+      social:
+        - name : "facebook"
+          icon : "ti-facebook" # themify icon pack https://themify.me/themify-icons
+          link : "#"
+          
+        - name : "twitter"
+          icon : "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
+          link : "#"
+          
+        - name : "instagram"
+          icon : "ti-instagram" # themify icon pack https://themify.me/themify-icons
+          link : "#"
+          
+        - name : "linkedin"
+          icon : "ti-linkedin" # themify icon pack https://themify.me/themify-icons
+          link : "#"
+          
+    # team member loop
+    - name : "Uzunov Marie-Rose Christina"
+      designation : "Vicepresident"
+      image : "images/team/volunteer-img1.2.jpg"
+      social:
+        - name : "facebook"
+          icon : "ti-facebook" # themify icon pack https://themify.me/themify-icons
+          link : "#"
+          
+        - name : "twitter"
+          icon : "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
+          link : "#"
+          
+        - name : "instagram"
+          icon : "ti-instagram" # themify icon pack https://themify.me/themify-icons
+          link : "#"
+          
+        - name : "linkedin"
+          icon : "ti-linkedin" # themify icon pack https://themify.me/themify-icons
+          link : "#"
+          
+ 
+
 ############################ gallery ###################################
 gallery:
   enable : true
   subtitle : "Our Gallery"
-  title : "We connect with people across different sectors. we take risksand we always keep learning."
+  title : "Discover our projects visually."
+  location : "Our location"
   galleryItems:
-    - image : "images/gallery/1.jpg"
-    - image : "images/gallery/2.jpg"
-    - image : "images/gallery/3.jpg"
-    - image : "images/gallery/4.jpg"
-    - image : "images/gallery/5.jpg"
-    - image : "images/gallery/6.jpg"
-    - image : "images/gallery/7.jpg"
-    - image : "images/gallery/8.jpg"
-    - image : "images/gallery/9.jpg"
+    - image : "images/gallery/IMG_0081.JPG"
+    - image : "images/gallery/IMG_0082.JPG"
+    - image : "images/gallery/IMG_0083.JPG"
+    - image : "images/gallery/IMG_7320.jpg"
+    - image : "images/gallery/IMG_7321.jpg"
+    - image : "images/gallery/IMG_7322.jpg"
+    - image : "images/gallery/IMG_7329.jpg"
+    - image : "images/gallery/IMG_7331.jpg"
+
+############################ partners ###################################
+partners:
+  enable : true
+  title : "How to become an ASAF ambasador"
+  content : "Asociatia pentru Sprijinul Artelor Frumoase is looking for dedicated, reliable, and energetic individuals who love art and would like to share their passion for art through promoting activities."
+        
+  button:
+    enable : true
+    label : "Become An Ambassador"
+    link : "volunteer"
 
 ########################## latest causes ################################
 causes:
@@ -112,8 +183,7 @@ volunteer:
   enable : true
   image : "images/bg/image-5.jpg"
   title : "We can’t help everyone, but everyone can help someone"
-  content : "Assumenda reiciendis delectus dolore incidunt molestias omnis quo quaerat voluptate, eligendi perspiciatis
-            ipsa laudantium nesciunt officia, odit nemo quidem hic itaque. Fugiat."
+  content : "ASAF is looking for dedicated, reliable, and energetic individuals who love art and would like to share their passion for art through promoting activities."
   partners:
     enable : true
     title : "Trusted worldwide partner"

@@ -242,19 +242,19 @@
   translation: I want to support you
 
 - id : donation_title2
-  translation: Domate below ...
+  translation: Donate below ...
 
 - id : donation_donation_cta
   translation: Donation
 
 - id : donation_option1
-  translation: 100 EUR
+  translation: 100 EUR (Gold supporter)
 
 - id : donation_option2
-  translation: 50 EUR
+  translation: 50 EUR (Silver supporter)
 
 - id : donation_option3
-  translation: 10 EUR
+  translation: 10 EUR (Bronze supporter)
 
 - id : donation_other_amount
   translation: Other amount

@@ -248,13 +248,13 @@
   translation: Donatie
 
 - id : donation_option1
-  translation: 100 RON
+  translation: 100 RON (donatie suporter Gold)
 
 - id : donation_option2
-  translation: 50 RON
+  translation: 50 RON (donatie suporter Silver)
 
 - id : donation_option3
-  translation: 10 RON
+  translation: 10 RON (donatie suporter Bronze)
 
 - id : donation_other_amount
   translation: Alta suma

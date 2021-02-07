@@ -64,8 +64,8 @@ description = "This is meta description"
 author = "Themefisher"
 # google map
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
-mapLatitude = "51.5223477"
-mapLongitude = "-0.1622023"
+mapLatitude = "44.44137"
+mapLongitude = "26.0943129"
 mapMarker = "/images/marker.png"
 
 # Google Analitycs
@@ -93,6 +93,7 @@ content = "Subscribe to get latest news article and resources"
 # search
 [params.search]
 enable = true
+SearchURL="search"
 
 #################### social icon ######################################
 [[params.social]]
@@ -186,7 +187,7 @@ hasChildren = true
 
   [[Languages.ro.menu.main]]
   parent = "Implica-te"
-  name = "Voluntariat"
+  name = "Ambasador"
   URL = "volunteer"
   
 [[Languages.ro.menu.main]]
@@ -284,7 +285,7 @@ hasChildren = true
 
   [[Languages.en.menu.main]]
   parent = "Get Involved"
-  name = "Volunteer"
+  name = "Ambassador"
   URL = "volunteer"
   
 [[Languages.en.menu.main]]

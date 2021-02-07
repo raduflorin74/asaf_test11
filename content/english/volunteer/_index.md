@@ -6,14 +6,14 @@ description : "this is a meta description"
 bgImage: "images/bg/bg-3.jpg"
 ---
 
-**Help a child discover the joy of learning and join us in our efforts to put Every Child in School!**
+**Become our pertner in the priject of supporting art**
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto deserunt quo aliquid porro corrupti,
 pariatur, quaerat culpa libero sunt assumenda eos nihil facilis, inventore mollitia a? Excepturi sed, ex quam.
 
-#### Volunteer benefits
+#### Ambassador benefits
 
-As a volunteer you will get benefit from:
+As an ambassador you will get benefit from:
 
 - **Training** - get discounted rates on our unique training courses.
 - **Events** - receive discounted tickets and invitations to member-only events.

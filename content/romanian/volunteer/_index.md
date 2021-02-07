@@ -6,14 +6,14 @@ description : "this is a meta description"
 bgImage: "images/bg/bg-3.jpg"
 ---
 
-**Help a child discover the joy of learning and join us in our efforts to put Every Child in School!**
+**Fi partenerul nostru in proiectul de sprijinire a artei**
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto deserunt quo aliquid porro corrupti,
 pariatur, quaerat culpa libero sunt assumenda eos nihil facilis, inventore mollitia a? Excepturi sed, ex quam.
 
-#### Volunteer benefits
+#### Beneficii de ambasador
 
-As a volunteer you will get benefit from:
+Ca si ambasador ASAF ai urmatoarele privilegii 
 
 - **Training** - get discounted rates on our unique training courses.
 - **Events** - receive discounted tickets and invitations to member-only events.
