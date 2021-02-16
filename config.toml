@@ -155,10 +155,10 @@ copyright = "Copyright &copy; 2021 Creat de [RFS](https://rf-software.com)"
 ################### Romanian navigation ####################
 
 # main menu
-[[Languages.ro.menu.main]]
-name = "Despre noi"
-URL = "about"
-weight = 1
+#[[Languages.ro.menu.main]]
+#name = "Despre noi"
+#URL = "about"
+#weight = 1
 
 #[[Languages.ro.menu.main]]
 #name = "Blog"
