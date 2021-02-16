@@ -161,7 +161,7 @@
   translation: Formular de contact
 
 - id : contact_success
-  translation: Mesajul a fot trimis cu succes
+  translation: Mesajul a fost trimis cu succes
 
 - id : contact_your_name
   translation: Nume *
