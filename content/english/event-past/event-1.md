@@ -1,6 +1,6 @@
 ---
-title: "ARTA  DA SPERANTA"
-date: 2019-09-25T11:28:32+06:00
+title: "ARTA  DĂ SPERANȚĂ"
+date: 2020-09-25T11:28:32+06:00
 draft: false
 description : "this is a meta description"
 bgImage: "images/bg/bg-3.jpg"
@@ -9,6 +9,7 @@ eventDate: "9 Decembrie 2020 ora 16:00."
 location: "str. Constantin Esarcu, nr.1"
 organizer: "Rotenberg – Uzunov Art Gallery"
 type: "event"
+categ : "present"
 ---
 
 

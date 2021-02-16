@@ -14,10 +14,10 @@
   translation: Abonare newsletter
 
 - id: subscribe
-  translation: Aboneaza-te
+  translation: Abonează-te
 
 - id: contact_us
-  translation: Contacteaza-ne
+  translation: Contactează-ne
 
 - id: latest_article
   translation: Ultimul articol
@@ -32,7 +32,7 @@
   translation: Vezi tot
 
 - id: apply_now
-  translation: Aplica acum
+  translation: Aplică acum
 
 - id: posted_by
   translation: Publicat de
@@ -53,19 +53,19 @@
   translation: durata
 
 - id: weekly
-  translation: saptamanal
+  translation: săptămânal
 
 - id: fee
-  translation: taxa
+  translation: taxă
 
 - id: teacher
   translation: profesor
 
 - id: location
-  translation: locatie
+  translation: locație
 
 - id: entry_fee
-  translation: taxa intrare
+  translation: taxă intrare
 
 - id: event_speaker
   translation: Prezentator
@@ -74,25 +74,25 @@
   translation: Alte evenimente
 
 - id: join
-  translation: Alatura-te
+  translation: Alătura-te
 
 - id: enter_email
-  translation: Introduceri adresa de email
+  translation: Introduceți adresa de email
 
 - id: company
   translation: companie
 
 - id: links
-  translation: legaturi
+  translation: legături
 
 - id: courses
   translation: Cursuri
 
 - id: new_notice
-  translation: Notificare noua
+  translation: Notificare nouă
 
 - id: call
-  translation: Sunati
+  translation: Sunați
 
 - id: email
   translation: email
@@ -104,22 +104,22 @@
   translation: INTERESE
 
 - id: our_teachers
-  translation: Profesorii nostri
+  translation: Profesorii noștri
 
 - id: get_quote
-  translation: Doneaza
+  translation: Donează
 
 - id: download
-  translation: Descarcati
+  translation: Descărcați
 
 - id: subscribe_title
-  translation: Aboneaza-te
+  translation: Abonează-te
 
 - id: subscribe_now
-  translation: Aboneaza-te acum ...
+  translation: Abonează-te acum ...
 
 - id: subscribe_content
-  translation: Aboneaza-te pentru a primi cele mai noi articole
+  translation: Abonează-te pentru a primi cele mai noi articole
 
 - id: gallery
   translation: Galerie foto
@@ -128,16 +128,16 @@
   translation: Linkuri
 
 - id : company
-  translation: Asociatia pentru Sprijinirea Artelor Frumoase
+  translation: Asociația pentru Sprijinirea Artelor Frumoase
 
 - id : contact_title1
-  translation: "Am vrea sa primim vesti de la tine!"
+  translation: "Am vrea să primim vești de la tine!"
 
 - id : contact_title2
-  translation: Contacteaza-ne !
+  translation: Contactează-ne !
 
 - id : contact_address
-  translation: Adresa 
+  translation: Adresă
 
 - id : contact_email
   translation: Email
@@ -146,13 +146,13 @@
   translation: Numere de telefon
 
 - id : contact_phone1
-  translation: Presedinte Adina Rentea 0743490071
+  translation: Președinte Adina Rențea 0743490071
 
 - id : contact_phone2
-  translation: Vicepresedinte Eduard Mitcea Uzunov 0722628330
+  translation: Vicepreședinte Eduard Mitcea Uzunov 0722628330
 
 - id : contact_social
-  translation: Ne gasesti si pe retelele sociale
+  translation: Ne găsești și pe rețelele sociale
 
 - id : contact_send_a_message
   translation: Trimite-ne un mesaj
@@ -173,7 +173,7 @@
   translation: Subiect *
 
 - id : contact_your_phone
-  translation: Numar telefon *
+  translation: Număr telefon *
 
 - id : contact_your_message
   translation: Mesaj *
@@ -182,7 +182,7 @@
   translation: Trimite
 
 - id : contact_conturi
-  translation: Conturi donatii
+  translation: Conturi donații
 
 - id : contact_cont_euro
   translation: "EURO  : RO89BTRLEURCRT0571154301"
@@ -194,7 +194,7 @@
   translation: Data
 
 - id : event_location
-  translation: Locatie
+  translation: Locație
 
 - id : event_organizer
   translation: Organizator
@@ -203,31 +203,31 @@
   translation: Detalii
 
 - id : event_donate
-  translation: Doneaza acum
+  translation: Donează acum
 
 - id : event_cta_donate
-  translation: Sprijina evenimentul nostru
+  translation: Sprijină evenimentul nostru
 
 - id : event_share
   translation: Distribuie 
 
 - id : volunteer_title1
-  translation: Alatura-te echipei noastre
+  translation: Alătură-te echipei noastre
 
 - id : volunteer_title2
   translation: Devino Ambasador
 
 - id : volunteer_full_name
-  translation: Nume si Prenume
+  translation: Nume și Prenume
 
 - id : volunteer_email
   translation: Email
 
 - id : volunteer_phone
-  translation: Numar telefon
+  translation: Număr telefon
 
 - id : volunteer_address
-  translation: Adresa
+  translation: Adresă
 
 - id : volunteer_ocupation
   translation: Profesie
@@ -239,28 +239,28 @@
   translation: Trimite
 
 - id : donation_title1
-  translation: Doresc sa ajut
+  translation: Doresc să ajut
 
 - id : donation_title2
-  translation: Doneaza mai jos ...
+  translation: Donează mai jos ...
 
 - id : donation_donation_cta
-  translation: Donatie
+  translation: Donație
 
 - id : donation_option1
-  translation: 100 RON (donatie suporter Gold)
+  translation: 100 RON (donație suporter Gold)
 
 - id : donation_option2
-  translation: 50 RON (donatie suporter Silver)
+  translation: 50 RON (donație suporter Silver)
 
 - id : donation_option3
-  translation: 10 RON (donatie suporter Bronze)
+  translation: 10 RON (donație suporter Bronze)
 
 - id : donation_other_amount
-  translation: Alta suma
+  translation: Alta sumă
 
 - id : donation_pay_method
-  translation: Selectati metoda de plata
+  translation: Selectați metoda de plată
 
 - id : donation_card
   translation: Card
@@ -269,7 +269,7 @@
   translation: Transfer Bancar
 
 - id : donation_donor_details
-  translation: Detalii persoana care doneaza
+  translation: Detalii persoană care donează
 
 - id : donation_donor_name
   translation: Nume
@@ -278,22 +278,22 @@
   translation: Email
 
 - id : donation_donor_phone
-  translation: Numar Telefon
+  translation: Număr Telefon
 
 - id : donation_donor_country
-  translation: Tara
+  translation: Țară
 
 - id : donation_donor_address
-  translation: Adresa
+  translation: Adresă
 
 - id : donation_donor_city
-  translation: Oras
+  translation: Oraș
 
 - id : donation_donor_anonymus
   translation: Donator anonim
 
 - id : donation_anonymus_box
-  translation: Bifati casuta daca doriti acunderea informatiilor personale
+  translation: Bifați căsuța dacă doriți acunderea informațiilor personale
 
 - id : donation_donor_consent1
   translation: Sunt de acord
@@ -302,7 +302,7 @@
   translation: ca persoanele reprezentative
 
 - id : donation_donor_consent3
-  translation: ale ASAF sa ma contacteze ocazional prin telefon sau email cu privire la evenimentele noaste.
+  translation: ale ASAF să mă contacteze ocazional prin telefon sau email cu privire la evenimentele noaste.
 
 - id : donation_donate_now
   translation: Donez

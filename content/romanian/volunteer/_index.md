@@ -13,7 +13,7 @@ pariatur, quaerat culpa libero sunt assumenda eos nihil facilis, inventore molli
 
 #### Beneficii de ambasador
 
-Ca si ambasador ASAF ai urmatoarele privilegii 
+Ca și ambasador ASAF ai următoarele privilegii 
 
 - **Training** - get discounted rates on our unique training courses.
 - **Events** - receive discounted tickets and invitations to member-only events.

@@ -1,6 +1,6 @@
 ---
 title: "Horaţiu Mălăele - Feminin – creaţie şi tentaţie"
-date: 2019-09-25T11:28:32+06:00
+date: 2020-09-25T11:28:32+06:00
 draft: false
 description : "this is a meta description"
 bgImage: "images/bg/bg-3.jpg"
@@ -9,6 +9,7 @@ eventDate: "29 Octombrie – 10 Noiembrie 2020"
 location: "str. Constantin Esarcu, nr.1"
 organizer: "Rotenberg – Uzunov Art Gallery"
 type: "event"
+categ : "past"
 ---
 
 # Expoziţie de nuduri

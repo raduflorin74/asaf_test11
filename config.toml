@@ -55,9 +55,9 @@ logo = "images/logo.png"
 home = "Home"
 # Contact Information
 phone = "+40743490071"
-phone2 = "Presedinte Adina Rentea 0743490071, Vicepresedinte Eduard Mitcea Uzunov 0722628330"
+phone2 = "Președinte Adina Rențea 0743490071, Vicepreședinte Eduard Mircea Uzunov 0722628330"
 email = "asprijinartefrumoase@gmail.com"
-location = "Strada Constantin Esarcu nr.3, apt2, Sector 1, Bucuresti"
+location = "Strada Constantin Esarcu nr.3, apt2, Sector 1, București"
 copyright = "&copy; 2019 a theme by [themefisher](https://themefisher.com/)"
 # Meta data
 description = "This is meta description"
@@ -99,38 +99,38 @@ SearchURL="search"
 [[params.social]]
 name = "Facebook"
 icon = "ti-facebook" # themify icon pack https://themify.me/themify-icons
-link = "#"
+link = "https://www.facebook.com/ASAF-104568341534934"
+
+#[[params.social]]
+#name = "Twitter"
+#icon = "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
+#link = "#"
+#
+#[[params.social]]
+#name = "Vimeo"
+#icon = "ti-vimeo-alt" # themify icon pack https://themify.me/themify-icons
+#link = "#"
 
 [[params.social]]
-name = "Twitter"
-icon = "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-name = "Vimeo"
-icon = "ti-vimeo-alt" # themify icon pack https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-name = "Github"
-icon = "ti-github" # themify icon pack https://themify.me/themify-icons
-link = "#"
+name = "Instagram"
+icon = "ti-instagram" # themify icon pack https://themify.me/themify-icons
+link = "https://www.instagram.com/asprijinartefrumoase/"
 
 ############################# post share links ######################
 [[params.postShare]]
 icon = "ti-facebook" # themify icon pack https://themify.me/themify-icons
 name = "facebook"
-link = "#"
+link = "https://www.facebook.com/ASAF-104568341534934"
 
-[[params.postShare]]
-icon = "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
-name = "twitter"
-link = "#"
-
-[[params.postShare]]
-icon = "ti-linkedin" # themify icon pack https://themify.me/themify-icons
-name = "linkedin"
-link = "#"
+#[[params.postShare]]
+#icon = "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
+#name = "twitter"
+#link = "#"
+#
+#[[params.postShare]]
+#icon = "ti-linkedin" # themify icon pack https://themify.me/themify-icons
+#name = "linkedin"
+#link = "#"
 
 [[params.postShare]]
 icon = "ti-pinterest" # themify icon pack https://themify.me/themify-icons
@@ -147,18 +147,18 @@ title = "ASAF- RO"
 languageName = "Ro 🇷🇴"
 languageCode = "ro-ro"
 contentDir = "content/romanian"
-home = "Acasa"
+home = "Acasă"
 # copyright
-copyright = "Copyright &copy; 2020 Creat de [RFS](https://rf-software.com)"
+copyright = "Copyright &copy; 2021 Creat de [RFS](https://rf-software.com)"
 
 
 ################### Romanian navigation ####################
 
 # main menu
-#[[Languages.ro.menu.main]]
-#name = "Despre noi"
-#URL = "about"
-#weight = 1
+[[Languages.ro.menu.main]]
+name = "Despre noi"
+URL = "about"
+weight = 1
 
 #[[Languages.ro.menu.main]]
 #name = "Blog"
@@ -177,16 +177,16 @@ weight = 3
 
 [[Languages.ro.menu.main]]
 weight = 4
-name = "Implica-te"
+name = "Implică-te"
 hasChildren = true
 
   [[Languages.ro.menu.main]]
-  parent = "Implica-te"
-  name = "Doneaza"
+  parent = "Implică-te"
+  name = "Donează"
   URL = "donation"
 
   [[Languages.ro.menu.main]]
-  parent = "Implica-te"
+  parent = "Implică-te"
   name = "Ambasador"
   URL = "volunteer"
   
@@ -197,18 +197,21 @@ weight = 5
 
   [[Languages.ro.menu.main]]
   parent = "Evenimente"
-  name = "In prezent"
+  name = "În prezent"
   URL = "event"
+
 
   [[Languages.ro.menu.main]]
   parent = "Evenimente"
-  name = "In trecut"
-  URL = "event"
+  name = "În trecut"
+  URL = "event-past"
+
 
   [[Languages.ro.menu.main]]
   parent = "Evenimente"
-  name = "In viitor"
-  URL = "event"
+  name = "În viitor"
+  URL = "event-future"
+
 
 [[Languages.ro.menu.main]]
 name = "Contact"
@@ -220,7 +223,7 @@ weight = 6
 
 
 [[Languages.ro.menu.footer]]
-name = "Acasa"
+name = "Acasă"
 URL = ""
 weight = 1
 
@@ -247,7 +250,7 @@ languageCode = "en-us"
 contentDir = "content/english"
 home = "Home"
 # copyright
-copyright = "Copyright &copy; 2021 Created by [RFS](https://rf-software.com)"
+c = "Copyright &copy; 2021 Created by [RFS](https://rf-software.com)"
 
 
 ################### English navigation ####################
@@ -301,12 +304,12 @@ weight = 5
   [[Languages.en.menu.main]]
   parent = "Events"
   name = "In the past"
-  URL = "event"
+  URL = "event-past"
 
   [[Languages.en.menu.main]]
   parent = "Events"
   name = "In the future"
-  URL = "event"
+  URL = "event-future"
 
 [[Languages.en.menu.main]]
 name = "Contact"

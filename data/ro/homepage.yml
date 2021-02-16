@@ -1,8 +1,8 @@
 ################################ Banner ##############################
 banner:
   enable : true
-  subtitle : "Galeria de arta ROTENBBERG - UZUNOV"
-  title : "Arta da speranta"
+  subtitle : "Galeria de artă ROTENBBERG - UZUNOV"
+  title : "Arta dă speranță"
   content : "Peste 20 de artiști vor transforma etajul 6 al Institutului Clinic Fundeni, în galerie de artă pentru copiii grav bolnavi."
   button:
     enable : true
@@ -12,48 +12,48 @@ banner:
 ############################# Intro ##################################
 intro:
   enable: true
-  subtitle : "In ce credem"
+  subtitle : "În ce credem"
   title : "Principii fundamentale"
-  content : "Pornind la drum cu fonduri reduse si un numar mic de personal, asociatia lucreaza cu ambitie pentru a-si indeplini misiunea, folosind resurse limitate si aducand la acceasi masa oameni si organizatii care ne impartasesc entuziasmul pentru sprijinirea artei in Romania"
+  content : "Pornind la drum cu fonduri reduse și un număr mic de personal, asociația lucrează cu ambiție pentru a-și îndeplini misiunea, folosind resurse limitate și aducând la acceași masă oameni și organizații care ne împărtăsesc entuziasmul pentru sprijinirea artei în România"
 
          
   introItem:
     # intro item loop
-    - title : "Mandrie"
+    - title : "Organizare"
       image : "images/about/principii1.jpg"
-      content : "Ne mandrim cu ceea ce facem. Ne dorim sa fim mai buni si sa ajutam pe artistii romani."
+      content : "Organizăm acțiuni, proiecte sau programe și evenimente culturale, conferințe și dezbateri."
       
        
       
     # intro item loop
-    - title : "Creativitate"
+    - title : "Sprijin financiar"
       image : "images/about/principii2.jpg"
-      content : "Promovam metode noi de gandire si sprijinim ideile conventionale sa ajunga la nivel asteptarilor clientilor."
+      content : "Acordăm sprijin financiar pentru orice fel de acțiuni, proiecte sau programe și colectăm fonduri pentru organizarea acestora."
       
       
     # intro item loop
-    - title : "Pasiune"
+    - title : "Consultanța"
       image : "images/about/principii3.jpg"
-      content : "Abordam fiecare zi cu o atitudine de tip \" Eu Pot \". Emanam o dorinta innascuta de a creste, a incata si a ne autodepasi"
+      content : "Acordăm consultanță și consiliere terților, în domeniul socio-cultural și sprijinim sub orice formă promovarea valorilor culturale din orice domeniu, din țară și din străinătate "
       
     # intro item loop
-    - title : "Spirit de echipa"
+    - title : "Spirit de echipă"
       image : "images/about/principii4.jpg"
-      content : "Suntem respectuosi si deschisi unii cu ceilalti. Invatam de la cei din jur pentru dezvoltarea competentelor comune."
+      content : "Suntem respectuoși și deschiși unii cu ceilalți. Învătam de la cei din jur pentru dezvoltarea competențelor comune."
       
 
 ########################### about ###############################
 about:
   enable : true
   image : "images/about/misiune.jpg"
-  title : "Misiunea noastra"
-  leadContent : "ASAF este o organizatie nonguvernamentala, infiintata in 2020, care isi propune sprijinirea si promovarea artei in Romania."
-  content : " Asociatia implementeaza proiecte importante menite a dezvolta competitivitatea ortistlor romani pe platformele locale sau internationale prin implicarea lor in expozitii  diverse si colaborari artistice care cresc gradul de constientizare, prin arta, a problemelor sociale, politice si de mediu"
+  title : "Misiunea noastră"
+  leadContent : " Asociația Culturală pentru Sprijinirea Artelor Frumoase are forma unei asociații, persoană juridică română de drept privat, fără scop lucrativ, neangajată politic. "
+  content : "Scopul Asociației este acela de a sprijini, dezvolta și promova artele frumoase a altor domenii conexe, la nivel național și internațional. Asociația își propune să promoveze artele frumoase și orice acțiuni, proiecte sau programe culturale, artistice, cultural-artistice, cultural-sportive, cultural-educative."
 
 ################################# Video ###############################
 video:
   enable : true
-  title : "Arta da speranta"
+  title : "Arta dă speranță"
   videoThumb : "images/bg/Galeria-de-arta-Rotenberg-Uzunov-Interior.jpg"
   video: "https://www.youtube.com/watch?v=TwcVp_-qkwU"
   
@@ -88,8 +88,8 @@ team:
     link : "volunteer"
   teamMember:
     # team member loop
-    - name : "Rentea C. Adina"
-      designation : "Presedinte"
+    - name : "Rențea C. Adina"
+      designation : "Președinte"
       image : "images/team/presedinte.jpg"
       social:
         - name : "facebook"
@@ -110,8 +110,8 @@ team:
           
     # team member loop
     - name : "Uzunov Marie-Rose Christina"
-      designation : "Vicepresedinte"
-      image : "images/team/volunteer-img1.2.jpg"
+      designation : "Vicepreședinte"
+      image : "images/team/vicepresedinte.jpg"
       social:
         - name : "facebook"
           icon : "ti-facebook" # themify icon pack https://themify.me/themify-icons
@@ -131,21 +131,43 @@ team:
           
  
 ############################ partners ###################################
+#partners:
+#  enable : true
+#  title : "Cum sa devii ambasador"
+#  content : "Asociatia pentru Sprijinul Artelor Frumoase cauta persoane active, pasionate si de incredere care iubesc arta si sunt dornici sa-si imparta pasiunea  prin activitati de promovare."
+#        
+#  button:
+#    enable : true
+#    label : "Devino ambasador"
+#    link : "volunteer"
+############################# partners ##########################
 partners:
   enable : true
-  title : "Cum sa devii ambasador"
-  content : "Asociatia pentru Sprijinul Artelor Frumoase cauta persoane active, pasionate si de incredere care iubesc arta si sunt dornici sa-si imparta pasiunea  prin activitati de promovare."
-        
-  button:
-    enable : true
-    label : "Devino ambasador"
-    link : "volunteer"
+  title : "Parteneri"
+  content : "Ne face o deosebită onoare sa avem alături parteneri care ne ajută să realizăm proiecte frumoase."
+  partnersLogo:
+    # partner logo loop
+    - logo : "images/clients/Rotenberg-Uzunov-Galerie-de-arta-Bucuresti.png"
+      link : "http://rotenberguzunov.ro"
+      
+    # # partner logo loop
+    # - logo : "images/clients/client2.png"
+    #   link : "#"
+      
+    # # partner logo loop
+    # - logo : "images/clients/client5.png"
+    #   link : "#"
+      
+    # # partner logo loop
+    # - logo : "images/clients/client4.png"
+    #   link : "#"
+
 ############################ gallery ###################################
 gallery:
   enable : true
-  subtitle : "Galerie virtuala"
-  title : "Descopera proiectele noastre in imagini."
-  location : "Locatia noastra"
+  subtitle : "Galerie virtuală"
+  title : "Descoperă proiectele noastre în imagini."
+  location : "Locația noastră"
   galleryItems:
     - image : "images/gallery/IMG_0081.JPG"
     - image : "images/gallery/IMG_0082.JPG"
