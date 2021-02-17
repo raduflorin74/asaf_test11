@@ -189,7 +189,7 @@ input[type="tel"] {
 
 //  Section Title
 .section {
-  padding: 100px 0;
+  padding: 50px 0;
 }
 
 .section-sm {
@@ -289,10 +289,15 @@ input[type="tel"] {
   letter-spacing: 0px
 }
 
+.colored {
+  color: $primary-color;
+  text-decoration: none;
+}
 
 /* Links */
 a {
   color: $black;
+  //color: $primary-color;
   text-decoration: none;
 }
 

@@ -170,10 +170,10 @@ name = "Galerie"
 URL = "gallery"
 weight = 2
 
-[[Languages.ro.menu.main]]
-name = "Proiecte"
-URL = "causes"
-weight = 3
+#[[Languages.ro.menu.main]]
+#name = "Proiecte"
+#URL = "causes"
+#weight = 3
 
 [[Languages.ro.menu.main]]
 weight = 4
@@ -182,12 +182,12 @@ hasChildren = true
 
   [[Languages.ro.menu.main]]
   parent = "Implică-te"
-  name = "Donează"
+  name = "Donează și tu !"
   URL = "donation"
 
   [[Languages.ro.menu.main]]
   parent = "Implică-te"
-  name = "Ambasador"
+  name = "Devino Ambasador !"
   URL = "volunteer"
   
 [[Languages.ro.menu.main]]
@@ -227,10 +227,10 @@ name = "Acasă"
 URL = ""
 weight = 1
 
-[[Languages.ro.menu.footer]]
-name = "Proiecte"
-URL = "causes"
-weight = 2
+#[[Languages.ro.menu.footer]]
+#name = "Proiecte"
+#URL = "causes"
+#weight = 2
 
 [[Languages.ro.menu.footer]]
 name = "Galerie"
@@ -271,10 +271,10 @@ name = "Gallery"
 URL = "gallery"
 weight = 2
 
-[[Languages.en.menu.main]]
-name = "Causes"
-URL = "causes"
-weight = 3
+#[[Languages.en.menu.main]]
+#name = "Causes"
+#URL = "causes"
+#weight = 3
 
 [[Languages.en.menu.main]]
 weight = 4
@@ -283,12 +283,12 @@ hasChildren = true
 
   [[Languages.en.menu.main]]
   parent = "Get Involved"
-  name = "Donation"
+  name = "Make a Donation"
   URL = "donation"
 
   [[Languages.en.menu.main]]
   parent = "Get Involved"
-  name = "Ambassador"
+  name = "Become Ambassador"
   URL = "volunteer"
   
 [[Languages.en.menu.main]]
@@ -325,10 +325,10 @@ name = "Home"
 URL = ""
 weight = 1
 
-[[Languages.en.menu.footer]]
-name = "Projects"
-URL = "causes"
-weight = 2
+#[[Languages.en.menu.footer]]
+#name = "Projects"
+#URL = "causes"
+#weight = 2
 
 [[Languages.en.menu.footer]]
 name = "Gallery"

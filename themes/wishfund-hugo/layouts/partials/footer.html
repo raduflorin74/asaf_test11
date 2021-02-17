@@ -54,7 +54,7 @@
 						<div class="row mx-0">
 							{{ range first 9 $data.homepage.gallery.galleryItems }}
 							<div class="col-4 px-1 mb-2">
-								<a href="{{ .image | absURL }}" class="gallery-popup">
+								<a  href="{{ .image | absURL }}" class="gallery-popup">
 									<img src="{{ .image | absURL }}" alt="" class="img-fluid w-100">
 								</a>
 							</div>

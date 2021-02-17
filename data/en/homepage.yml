@@ -1,8 +1,8 @@
 ################################ Banner ##############################
 banner:
   enable : true
-  subtitle : "ROTENBBERG - UZUNOV Art Gallery."
-  title : "Art gives Hope"
+  subtitle : "Welcome !"
+  title : "Asociația Culturală pentru Sprijinirea Artelor Frumoase"
   content : "Small Help Can Make Change. Your contribution means a lot."
   button:
     enable : true
@@ -40,7 +40,7 @@ intro:
 about:
   enable : true
   image : "images/about/misiune.jpg"
-  title : "Misiunea noastra"
+  title : "Our Mission"
   leadContent : "ASAF is a non-governmental organization established in 2020 with the aim to support and promote  art in Romania"
   content : "The Association implements strategically important projects to improve competitive capacity of Romanian artists at domestic and international platforms, through involving them in various exhibitions and artistic collaborative projects and works to raise public awareness on social, environmental, political issues through art."
 
@@ -105,7 +105,7 @@ team:
     # team member loop
     - name : "Uzunov Marie-Rose Christina"
       designation : "Vicepresident"
-      image : "images/team/volunteer-img1.2.jpg"
+      image : "images/team/vicepresedinte.jpg"
       social:
         - name : "facebook"
           icon : "ti-facebook" # themify icon pack https://themify.me/themify-icons
@@ -142,15 +142,36 @@ gallery:
     - image : "images/gallery/IMG_7331.jpg"
 
 ############################ partners ###################################
+#partners:
+#  enable : true
+#  title : "Cum sa devii ambasador"
+#  content : "Asociatia pentru Sprijinul Artelor Frumoase cauta persoane active, pasionate si de incredere care iubesc arta si sunt dornici sa-si imparta pasiunea  prin activitati de promovare."
+#        
+#  button:
+#    enable : true
+#    label : "Devino ambasador"
+#    link : "volunteer"
+############################# partners ##########################
 partners:
   enable : true
-  title : "How to become an ASAF ambasador"
-  content : "Asociatia pentru Sprijinul Artelor Frumoase is looking for dedicated, reliable, and energetic individuals who love art and would like to share their passion for art through promoting activities."
-        
-  button:
-    enable : true
-    label : "Become An Ambassador"
-    link : "volunteer"
+  title : "Parteners"
+  content : "We are honored to have special parteners which help us with our projects."
+  partnersLogo:
+    # partner logo loop
+    - logo : "images/clients/Rotenberg-Uzunov-Galerie-de-arta-Bucuresti.png"
+      link : "http://rotenberguzunov.ro"
+      
+    # # partner logo loop
+    # - logo : "images/clients/client2.png"
+    #   link : "#"
+      
+    # # partner logo loop
+    # - logo : "images/clients/client5.png"
+    #   link : "#"
+      
+    # # partner logo loop
+    # - logo : "images/clients/client4.png"
+    #   link : "#"
 
 ########################## latest causes ################################
 causes:

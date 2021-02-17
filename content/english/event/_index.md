@@ -1,5 +1,5 @@
 ---
-title: "Evenimente"
+title: "Current Events"
 date: 2020-09-25T11:28:32+06:00
 draft: false
 description : "this is a meta description"
