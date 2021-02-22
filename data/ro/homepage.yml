@@ -150,9 +150,9 @@ partners:
     - logo : "images/clients/Rotenberg-Uzunov-Galerie-de-arta-Bucuresti.png"
       link : "http://rotenberguzunov.ro"
       
-    # # partner logo loop
-    # - logo : "images/clients/client2.png"
-    #   link : "#"
+    # partner logo loop
+    - logo : "images/clients/crama-rotenberg.jpg"
+      link : "https://www.rotenberg.ro/"
       
     # # partner logo loop
     # - logo : "images/clients/client5.png"
@@ -169,9 +169,9 @@ gallery:
   title : "Descoperă proiectele noastre în imagini."
   location : "Locația noastră"
   galleryItems:
+    - image : "http://rf-software.com/asaf_storage/Scrisoare_ASAF_1.jpg"
     - image : "http://rf-software.com/asaf_storage/IMG_0081.JPG"
     - image : "http://rf-software.com/asaf_storage/IMG_0082.JPG"
-    - image : "http://rf-software.com/asaf_storage/IMG_0083.JPG"
     - image : "http://rf-software.com/asaf_storage/IMG_7320.jpg"
     - image : "http://rf-software.com/asaf_storage/IMG_7321.jpg"
     - image : "http://rf-software.com/asaf_storage/IMG_7322.jpg"
