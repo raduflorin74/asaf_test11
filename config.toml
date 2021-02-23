@@ -26,7 +26,7 @@ URL = "plugins/magnific-popup/dist/magnific-popup.css"
 [[params.plugins.css]]
 URL = "plugins/slick-carousel/slick/slick.css"
 [[params.plugins.css]]
-URL = "plugins/slick-carousel/slick/slick.css"
+URL = "plugins/popup.css"
 
 # JS Plugins
 [[params.plugins.js]]
@@ -47,7 +47,8 @@ URL = "plugins/search/mark.js"
 URL = "plugins/search/search.js"
 [[params.plugins.js]]
 URL = "plugins/google-map/map.js"
-
+[[params.plugins.js]]
+URL = "plugins/popup.js"
 #######################
 
 [params]
@@ -148,6 +149,8 @@ languageName = "Ro 🇷🇴"
 languageCode = "ro-ro"
 contentDir = "content/romanian"
 home = "Acasă"
+
+
 # copyright
 copyright = "Copyright &copy; 2021 Creat de [RFS](https://rf-software.com)"
 
@@ -155,28 +158,49 @@ copyright = "Copyright &copy; 2021 Creat de [RFS](https://rf-software.com)"
 ################### Romanian navigation ####################
 
 # main menu
-#[[Languages.ro.menu.main]]
-#name = "Despre noi"
-#URL = "about"
-#weight = 1
+[[Languages.ro.menu.main]]
+name = "Acasă"
+URL = ""
+weight = 1
+hasChildren = true
 
-#[[Languages.ro.menu.main]]
-#name = "Blog"
-#URL = "blog"
-#weight = 2
+  [[Languages.ro.menu.main]]
+  parent = "Acasă"
+  name = "Despre noi"
+  URL = "about"
+
+  [[Languages.ro.menu.main]]
+  parent = "Acasă"
+  name = "Misiune"
+  URL = "mission"
+
+  [[Languages.ro.menu.main]]
+  parent = "Acasă"
+  name = "Principii fundamentale"
+  URL = "principles"
+
+  [[Languages.ro.menu.main]]
+  parent = "Acasă"
+  name = "Structura de conducere"
+  URL = "management"
 
 [[Languages.ro.menu.main]]
-name = "Galerie"
-URL = "gallery"
+name = "Parteneri"
+URL = "partners"
 weight = 2
 
 #[[Languages.ro.menu.main]]
-#name = "Proiecte"
-#URL = "causes"
+#name = "Galerie"
+#URL = "gallery"
 #weight = 3
 
 [[Languages.ro.menu.main]]
+name = "Media"
+URL = "blog"
 weight = 4
+
+[[Languages.ro.menu.main]]
+weight = 5
 name = "Implică-te"
 hasChildren = true
 
@@ -193,7 +217,7 @@ hasChildren = true
 [[Languages.ro.menu.main]]
 name = "Evenimente"
 #URL = "event"
-weight = 5
+weight = 6
 
   [[Languages.ro.menu.main]]
   parent = "Evenimente"
@@ -216,7 +240,7 @@ weight = 5
 [[Languages.ro.menu.main]]
 name = "Contact"
 URL = "contact"
-weight = 6
+weight = 7
 
 
 # footer menu En
@@ -256,28 +280,49 @@ c = "Copyright &copy; 2021 Created by [RFS](https://rf-software.com)"
 ################### English navigation ####################
 
 # main menu
-#[[Languages.en.menu.main]]
-#name = "About"
-#URL = "about"
-#weight = 1
+[[Languages.en.menu.main]]
+name = "Home"
+URL = ""
+weight = 1
+hasChildren = true
 
-#[[Languages.en.menu.main]]
-#name = "Blog"
-#URL = "blog"
-#weight = 2
+  [[Languages.en.menu.main]]
+  parent = "Home"
+  name = "About us"
+  URL = "about"
+
+  [[Languages.en.menu.main]]
+  parent = "Home"
+  name = "Mission"
+  URL = "mission"
+
+  [[Languages.en.menu.main]]
+  parent = "Home"
+  name = "Fundamentals"
+  URL = "principles"
+
+  [[Languages.en.menu.main]]
+  parent = "Home"
+  name = "Management"
+  URL = "management"
 
 [[Languages.en.menu.main]]
-name = "Gallery"
-URL = "gallery"
+name = "Partners"
+URL = "partners"
 weight = 2
 
 #[[Languages.en.menu.main]]
-#name = "Causes"
-#URL = "causes"
+#name = "Galerie"
+#URL = "gallery"
 #weight = 3
 
 [[Languages.en.menu.main]]
+name = "Media"
+URL = "blog"
 weight = 4
+
+[[Languages.en.menu.main]]
+weight = 5
 name = "Get Involved"
 hasChildren = true
 
@@ -294,7 +339,7 @@ hasChildren = true
 [[Languages.en.menu.main]]
 name = "Events"
 #URL = "event"
-weight = 5
+weight = 6
 
   [[Languages.en.menu.main]]
   parent = "Events"
@@ -314,7 +359,7 @@ weight = 5
 [[Languages.en.menu.main]]
 name = "Contact"
 URL = "contact"
-weight = 6
+weight = 7
 
 
 # footer menu En

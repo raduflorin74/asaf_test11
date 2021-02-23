@@ -1,0 +1,78 @@
+{{ define "main" }}
+
+{{ partial "page-title.html" . }}
+
+{{ $data := index site.Data site.Language.Lang }}
+
+
+<section class="section cause-single">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-lg-10">
+        <div class="single-details">
+
+
+          <div class="content">
+            {{.Content}}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!--  Section Services Start -->
+{{ if $data.homepage.team.enable }}
+{{ with $data.homepage.team }}
+<section class="section team">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-lg-7 text-center">
+        <div class="section-title">
+          <span class="h6 text-color">{{ .subtitle | markdownify }}</span>
+          <h2 class="mt-3 content-title">{{ .title | markdownify }}</h2>
+        </div>
+      </div>
+    </div>
+    <div class="row justify-content-center">
+      {{ range .teamMember}}
+      <div class="col-lg-3 col-md-6 col-sm-6">
+        <div class="team-item-wrap mb-5">
+          <div class="team-item position-relative">
+            <img src="{{ .image | absURL }}" alt="" class="img-fluid w-100">
+            <div class="team-img-hover">
+              <ul class="team-social list-inline">
+                {{ range .social }}
+                <li class="list-inline-item">
+                  <a href="{{ .link | safeURL }}" class="{{ .name }}"><i class="{{ .icon }}"></i></a>
+                </li>
+                {{end }}
+              </ul>
+            </div>
+          </div>
+          <div class="team-item-content">
+            <h4 class="mt-3 mb-0 text-capitalize">{{ .name }}</h4>
+            <p>{{ .designation }}</p>
+          </div>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+    {{ if .button.enable }}
+    <div class="row">
+      <div class="col-lg-12">
+        <div class="text-center">
+          {{ with .button }}
+          <a href="{{ .link | absURL }}" class="btn btn-main rounded">{{ .label }}</a>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+    {{ end }}
+  </div>
+</section>
+{{ end }}
+{{ end }}
+<!-- /team -->
+
+
+{{ end }}
