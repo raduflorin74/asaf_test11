@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700&display=swap');
-
+@import "https:/netdna.bootstrapcdn.com/font-awesome/3.0/css/font-awesome.css";
 
 
 #newsletter-popup{
@@ -100,4 +100,69 @@
     height: 40px;
     width: 40px;
     line-height: 45px;
+}
+
+
+.search-box1 {
+/*    position:absolute;
+    top:50%;
+    transform:translateY(-50%);
+    right:20px;*/
+}
+.search-box1 > span {
+    position:absolute;
+    left:20px;
+    top:50%;
+    transform:translateY(-50%);
+}
+ .search-box1 > input {
+    width:150px;
+    height:150px;
+    padding:10px 0 10px 45px;
+    outline:0;
+    border:#e5e5e5 solid 1px;
+    border-radius:5px
+}
+.search-box1 > input:focus {
+    border-color:gray;
+}
+
+.mainLoginInput{
+  height: 40px;
+  padding: 0px;
+  font-size: 30px;
+  margin: 5px 0;
+}
+
+.mainLoginInput::-webkit-input-placeholder { 
+font-family: FontAwesome;
+font-weight: normal;
+overflow: visible;
+vertical-align: top;
+display: inline-block !important;
+padding-left: 5px;
+padding-top: 2px;
+/*color: hsl(9, 40%, 60%);*/
+}
+
+.mainLoginInput::-moz-placeholder  { 
+font-family: FontAwesome;
+font-weight: normal;
+overflow: visible;
+vertical-align: top;
+display: inline-block !important;
+padding-left: 5px;
+padding-top: 2px;
+/*color: hsl(9, 40%, 60%);*/
+}
+
+.mainLoginInput:-ms-input-placeholder  { 
+font-family: FontAwesome;
+font-weight: normal;
+overflow: visible;
+vertical-align: top;
+display: inline-block !important;
+padding-left: 5px;
+padding-top: 2px;
+/*color: hsl(9, 40%, 60%);*/
 }

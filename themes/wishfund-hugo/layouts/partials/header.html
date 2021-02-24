@@ -25,7 +25,27 @@
             {{ if .Site.Params.navBtn.enable }}
             <a href="{{ .Site.Params.navBtn.link| absLangURL  }}" class="top-btn">{{ i18n "get_quote" }}</a>
             {{ end }}
-
+            <!-- Language List -->
+            {{ if .IsTranslated }}
+            <select class="text-center m-8 border-0" id="select-language" onchange="location = this.value;">
+              {{ $siteLanguages := site.Languages}}
+              {{ $pageLang := .Page.Lang}}
+              {{ range .Page.AllTranslations }}
+              {{ $translation := .}}
+              {{ range $siteLanguages }}
+              {{ if eq $translation.Lang .Lang }}
+              {{ $selected := false }}
+              {{ if eq $pageLang .Lang}}
+              <option id="{{ $translation.Language }}" value="{{ $translation.Permalink }}" selected>{{ .LanguageName }}
+              </option>
+              {{ else }}
+              <option id="{{ $translation.Language }}" value="{{ $translation.Permalink }}">{{ .LanguageName }}</option>
+              {{ end }}
+              {{ end }}
+              {{ end }}
+              {{ end }}
+            </select>
+            {{ end }}
           </div>
 
         </div>
@@ -68,39 +88,24 @@
           {{ end }}
         </ul>
 
-        <!-- Language List -->
-        {{ if .IsTranslated }}
-        <select class="m-2 border-0" id="select-language" onchange="location = this.value;">
-          {{ $siteLanguages := site.Languages}}
-          {{ $pageLang := .Page.Lang}}
-          {{ range .Page.AllTranslations }}
-          {{ $translation := .}}
-          {{ range $siteLanguages }}
-          {{ if eq $translation.Lang .Lang }}
-          {{ $selected := false }}
-          {{ if eq $pageLang .Lang}}
-          <option id="{{ $translation.Language }}" value="{{ $translation.Permalink }}" selected>{{ .LanguageName }}
-          </option>
-          {{ else }}
-          <option id="{{ $translation.Language }}" value="{{ $translation.Permalink }}">{{ .LanguageName }}</option>
-          {{ end }}
-          {{ end }}
-          {{ end }}
-          {{ end }}
-        </select>
-        {{ end }}
+
 
         <!-- Search button -->
         {{ if .Site.Params.search.enable }}
         {{ "<!-- search -->" | safeHTML }}
         <div class="search pl-lg-4">
-          <button id="searchOpen" class="search-btn"><i class="ti-search"></i></button>
+       <!--  <div class="search-box"> -->
+            <form action="{{ .Site.Params.search.SearchURL  | absLangURL  }}" >
+            <input class="search-box1 px-4 form-control" id="search-query" name="s" type="search" placeholder="Cautare ..">
+            </form>
+    <!--     </div> -->
+<!--           <button id="searchOpen" class="search-btn"><i class="ti-search"></i></button>
           <div class="search-wrapper">
             <form action="{{ .Site.Params.search.SearchURL  | absLangURL  }}" class="h-100">
               <input class="search-box px-4 form-control" id="search-query" name="s" type="search" placeholder="Scrie si apasa Enter..." >
             </form>
             <button id="searchClose" class="search-close"><i class="ti-close text-dark"></i></button>
-          </div>
+          </div> -->
         </div>
         {{ end }} 
       </div>
