@@ -31,10 +31,10 @@ intro:
       image : "images/about/principii3.jpg"
       content : "We approach every day with a positive ‘can do’ attitude. We share an innate desire to grow, learn and challenge ourselves."
       
-    # intro item loop
-    - title : "Teamwork"
-      image : "images/about/principii4.jpg"
-      content : "We are respectful and supportive of one another. We lead and learn from each other in innovation and knowledge."
+    # # intro item loop
+    # - title : "Teamwork"
+    #   image : "images/about/principii4.jpg"
+    #   content : "We are respectful and supportive of one another. We lead and learn from each other in innovation and knowledge."
 
 ########################### about ###############################
 about:

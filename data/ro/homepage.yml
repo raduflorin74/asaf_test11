@@ -19,25 +19,22 @@ intro:
          
   introItem:
     # intro item loop
-    - title : "Sprijin"
-      image : "images/about/principii2.jpg"
-      content : "Acordăm sprijin financiar pentru orice fel de acțiuni, proiecte sau programe și colectăm fonduri pentru organizarea acestora."
-      
+    - title : "Organizare"
+      image : "images/about/principii1.jpg"
+      content : "Organizăm acțiuni, proiecte sau programe și evenimente culturale, conferințe și dezbateri."
+  # intro item loop
+    - title : "Promovare"
+      image : "images/about/principii4.jpg"
+      content : "Promovarea valorilor culturale și ale formării profesionale, vizând sprijinirea artelor frumoase la nivel național sau internațional."
     # intro item loop
     - title : "Consultanța"
       image : "images/about/principii3.jpg"
       content : "Acordăm consultanță și consiliere terților, în domeniul socio-cultural și sprijinim sub orice formă promovarea valorilor culturale din orice domeniu, din țară și din străinătate "
 
     # intro item loop
-    - title : "Organizare"
-      image : "images/about/principii1.jpg"
-      content : "Organizăm acțiuni, proiecte sau programe și evenimente culturale, conferințe și dezbateri."
-      
-    # intro item loop
-    - title : "Promovare"
-      image : "images/about/principii4.jpg"
-      content : "Promovarea valorilor culturale și ale formării profesionale, vizând sprijinirea artelor frumoase la nivel național sau internațional."
-      
+    #- title : "Sprijin"
+    #  image : "images/about/principii2.jpg"
+    #  content : "Acordăm sprijin financiar pentru orice fel de acțiuni, proiecte sau programe și colectăm fonduri pentru organizarea acestora."
 
 ########################### about ###############################
 about:
