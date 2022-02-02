@@ -1,7 +1,7 @@
 ################################ Banner ##############################
 banner:
   enable : true
-  subtitle : "Bine ați venit !"
+  subtitle : "Bine ați venit !!"
   title : "Asociația Culturală pentru Sprijinirea Artelor Frumoase"
   content : "Peste 20 de artiști vor transforma etajul 6 al Institutului Clinic Fundeni, în galerie de artă pentru copiii grav bolnavi."
   button:
