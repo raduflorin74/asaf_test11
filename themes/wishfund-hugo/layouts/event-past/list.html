@@ -9,9 +9,9 @@
 
       {{ $catego := "oo" }}
       {{ if gt (sub now.YearDay .Date.YearDay) 10 }}
-      {{ $catego = "past" }}
+      {{ $categ = "past" }}
       {{ else }}
-      {{ $catego = "present" }}
+      {{ $categ = "present" }}
        {{ end }}
 
 
