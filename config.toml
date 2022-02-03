@@ -147,7 +147,7 @@ link = "#"
 title = "ASAF- RO"
 languageName = "Ro 🇷🇴"
 languageCode = "ro-ro"
-contentDir = "content/romanian"
+contentDir = "content/blog/romanian"
 home = "Acasă"
 
 
@@ -271,7 +271,7 @@ weight = 4
 title = "ASAF-EN"
 languageName = "En 🇬🇧"
 languageCode = "en-us"
-contentDir = "content/english"
+contentDir = "content/blog/english"
 home = "Home"
 # copyright
 c = "Copyright &copy; 2021 Created by [RFS](https://rf-software.com)"
