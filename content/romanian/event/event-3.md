@@ -2,15 +2,15 @@
 draft: false
 title: "Cadou de principesă: tablouri unicat pentru camera mezinei Principelui
   Nicolae"
-date: 2020-09-25T11:28:32+06:00
-description: this is a meta description
-bgImage: /images/bg-3.jpg
-image: /images/img_7362.jpg
-eventDate: 23 decembrie 2020
-location: str. Constantin Esarcu, nr.1
-organizer: Galeria Rotenberg-Uzunov
-type: event
-categ: past
+date: "2020-09-25T11:28:32+06:00"
+description: "this is a meta description"
+bgImage: "/images/bg-3.jpg"
+image: "/images/img_7362.jpg"
+eventDate: "23 decembrie 2020"
+location: "str. Constantin Esarcu, nr.1"
+organizer: "Galeria Rotenberg-Uzunov"
+type: "event"
+categ: "past"
 ---
 
 
