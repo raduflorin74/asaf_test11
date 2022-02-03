@@ -37,8 +37,7 @@
       {{ end }} -->
 
 
-      #{{ range  $paginator.Pages }}
-      #{{ range where .Site.Pages "Params.tags" "past" }}
+
       {{ range where $paginator.Pages "Params.tags" "post" }}
       <div class="col-lg-4 col-md-6">
         <div class="card event-item mb-4">
