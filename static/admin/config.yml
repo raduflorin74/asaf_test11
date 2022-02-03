@@ -5,7 +5,7 @@ media_folder: static/imgages
 public_folder: /imgages
 collections:
   - name: 'blog_ro'
-    label: 'Blog Romana'
+    label: 'BlogRomana'
     folder: 'content/romanian'
     path: {{slug}}/index
     media_folder: ""
@@ -17,7 +17,7 @@ collections:
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'blog_en'
-    label: 'Blog Engleza'
+    label: 'BlogEngleza'
     folder: 'content/english'
     path: {{slug}}/index
     media_folder: ""
@@ -40,35 +40,3 @@ collections:
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
-  - name: Language
-    label: language
-    delete: false
-    files:
-      - name: english
-        file: 'i18n/en.yaml'
-        label: English
-        fields:
-          - widget: object
-            name: home
-            label: Home
-            fields:
-              - {widget: string, name: other, label: Other, required: true}
-          - widget: object
-            name: title
-            label: 'Site Title'
-            fields:
-              - {widget: string, name: other, label: Other, required: true}
-      - name: french
-        file: 'i18n/fr.yaml'
-        label: French
-        fields:
-          - widget: object
-            name: home
-            label: Home
-            fields:
-              - {widget: string, name: other, label: Other, required: true}
-          - widget: object
-            name: title
-            label: 'Site Title'
-            fields:
-              - {widget: string, name: other, label: Other, required: true}
