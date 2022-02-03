@@ -65,7 +65,7 @@ collections:
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Imagine Bg', name: 'bgImage', widget: 'image' }
       - { label: 'Imagine', name: 'image', widget: 'image' }
-      - { label: 'Data Eveniment', name: 'date', widget: 'datetime' }
+      - { label: 'Data Eveniment', name: 'eventDate', widget: 'datetime' }
       - { label: 'Locatie', name: 'location', widget: 'string',default: 'str. Constantin Esarcu, nr.1' }
       - { label: 'Organizator', name: 'organizer', widget: 'string',default: 'Galeria Rotenberg-Uzunov' }
       - { label: 'Tip', name: 'type', widget: 'string',default: 'event' }
@@ -84,7 +84,7 @@ collections:
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Imagine Bg', name: 'bgImage', widget: 'image' }
       - { label: 'Imagine', name: 'image', widget: 'image' }
-      - { label: 'Data Eveniment', name: 'date', widget: 'datetime' }
+      - { label: 'Data Eveniment', name: 'eventDate', widget: 'datetime' }
       - { label: 'Locatie', name: 'location', widget: 'string',default: 'str. Constantin Esarcu, nr.1' }
       - { label: 'Organizator', name: 'organizer', widget: 'string',default: 'Galeria Rotenberg-Uzunov' }
       - { label: 'Tip', name: 'type', widget: 'string',default: 'event' }
