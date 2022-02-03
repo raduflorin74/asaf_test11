@@ -60,9 +60,16 @@ collections:
     editor:
       preview: false
     fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Titlu', name: 'title', widget: 'string' }
+      - { label: 'Data Publicare', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Imagine Bg', name: 'bgImage', widget: 'image' }
+      - { label: 'Imagine', name: 'image', widget: 'image' }
+      - { label: 'Data Eveniment', name: 'date', widget: 'datetime' }
+      - { label: 'Locatie', name: 'location', widget: 'string',default: 'str. Constantin Esarcu, nr.1' }
+      - { label: 'Organizator', name: 'organizer', widget: 'string',default: 'Galeria Rotenberg-Uzunov' }
+      - { label: 'Tip', name: 'type', widget: 'string',default: 'event' }
+      - { label: 'Categorie', name: 'categ', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'event_en'
     label: 'Evenimente Engleza'
@@ -72,7 +79,29 @@ collections:
     editor:
       preview: false
     fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Titlu', name: 'title', widget: 'string' }
+      - { label: 'Data Publicare', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Imagine Bg', name: 'bgImage', widget: 'image' }
+      - { label: 'Imagine', name: 'image', widget: 'image' }
+      - { label: 'Data Eveniment', name: 'date', widget: 'datetime' }
+      - { label: 'Locatie', name: 'location', widget: 'string',default: 'str. Constantin Esarcu, nr.1' }
+      - { label: 'Organizator', name: 'organizer', widget: 'string',default: 'Galeria Rotenberg-Uzunov' }
+      - { label: 'Tip', name: 'type', widget: 'string',default: 'event' }
+      - { label: 'Categorie', name: 'categ', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+
+
+#---
+#title: "Cadou de principesă: tablouri unicat pentru camera mezinei Principelui Nicolae"
+#date: 2020-09-25T11:28:32+06:00
+#draft: false
+#description : "this is a meta description"
+#bgImage: "images/bg/bg-3.jpg"
+#image: "images/about/IMG_7362.jpg"
+#eventDate: "23 decembrie 2020"
+#location: "str. Constantin Esarcu, nr.1"
+#organizer: "Galeria Rotenberg-Uzunov"
+#type: "event"
+#categ : "past"
+#---
