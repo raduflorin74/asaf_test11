@@ -7,7 +7,7 @@
     <div class="row justify-content-center">
       {{ $paginator := .Paginate .Data.Pages }}
 
-      {{ $catego := "oo" }}
+      {{ $categ := "oo" }}
       {{ if gt (sub now.YearDay .Date.YearDay) 10 }}
       {{ $categ = "past" }}
       {{ else }}
