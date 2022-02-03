@@ -8,7 +8,7 @@ collections:
     label: 'Blog'
     folder: 'content/blog'
     create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    #slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
       preview: false
     fields:
@@ -16,3 +16,35 @@ collections:
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: Language
+    label: language
+    delete: false
+    files:
+      - name: english
+        file: 'i18n/en.yaml'
+        label: English
+        fields:
+          - widget: object
+            name: home
+            label: Home
+            fields:
+              - {widget: string, name: other, label: Other, required: true}
+          - widget: object
+            name: title
+            label: 'Site Title'
+            fields:
+              - {widget: string, name: other, label: Other, required: true}
+      - name: french
+        file: 'i18n/fr.yaml'
+        label: French
+        fields:
+          - widget: object
+            name: home
+            label: Home
+            fields:
+              - {widget: string, name: other, label: Other, required: true}
+          - widget: object
+            name: title
+            label: 'Site Title'
+            fields:
+              - {widget: string, name: other, label: Other, required: true}
