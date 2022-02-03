@@ -38,7 +38,7 @@
 
 
 
-      {{ range (where .Paginator.Pages ".Params.Tags" "past") }}
+      {{ range (where .Paginator.Pages ".Params.categ" "past") }}
       <div class="col-lg-4 col-md-6">
         <div class="card event-item mb-4">
           <img src="{{ .Params.Image | absURL }}" class="card-img-top" alt="{{ .Title | markdownify }}">
