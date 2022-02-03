@@ -2,8 +2,32 @@ backend:
   name: git-gateway
   branch: main # Branch to update (optional; defaults to master)
 media_folder: static/imgages
-public_folder: /img
+public_folder: /imgages
 collections:
+  - name: 'blog_ro'
+    label: 'Blog Romana'
+    folder: 'content/romanian'
+    path: {{slug}}/index
+    media_folder: ""
+    public_folder: ""
+    create: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'blog_en'
+    label: 'Blog Engleza'
+    folder: 'content/english'
+    path: {{slug}}/index
+    media_folder: ""
+    public_folder: ""
+    create: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'blog'
     label: 'Blog'
     folder: 'content/blog'
