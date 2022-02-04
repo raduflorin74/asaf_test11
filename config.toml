@@ -228,13 +228,13 @@ weight = 6
   [[Languages.ro.menu.main]]
   parent = "Evenimente"
   name = "În trecut"
-  URL = "event"
+  URL = "event-past"
 
 
   [[Languages.ro.menu.main]]
   parent = "Evenimente"
   name = "În viitor"
-  URL = "event"
+  URL = "event-future"
 
 
 [[Languages.ro.menu.main]]
