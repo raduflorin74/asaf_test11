@@ -1,7 +1,7 @@
 backend:
   name: "git-gateway"
   repo: "raduflorin74/asaf_test11"
-  branch: "master"
+  branch: "main"
 media_folder: "static/images"
 public_folder: "/images"
 collections:
