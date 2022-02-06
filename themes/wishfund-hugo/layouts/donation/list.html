@@ -45,49 +45,6 @@
                 </div>
               </div>
 
-<!--               <div class="form-group">
-                <label class="col-form-label mb-3 h3">{{ i18n "donation_pay_method" }}</label>
-                <ul class="list-group list-group-horizontal-lg">
-                  <li class="list-group-item"><a href="#"><i class="icofont-mastercard-alt mr-2"></i>{{ i18n "donation_card" }}</a>
-                  </li>
-                  <li class="list-group-item"><a href="#"><i class="icofont-bank-transfer-alt mr-2"></i>{{ i18n "donation_transfer" }}</a></li>
-                </ul>
-              </div> -->
-
-<!--               <h3 class="mb-4 mt-5 border-bottom pb-3">Your account Credential</h3>
-              <div class="form-group">
-                <label class="col-form-label mb-2">Name on card</label>
-                <input type="text" class="form-control" id="paycardname" placeholder="Your Name">
-              </div>
-              <div class="form-group">
-                <label class="col-form-label mb-2">Card Number</label>
-                <input type="text" class="form-control" id="paycardnumber" placeholder="0000-0000-0000-0000">
-              </div> -->
-
-<!--               <div class="form-row">
-                <div class="form-group col-md-4">
-                  <label>Month</label>
-                  <select id="inputmonth" class="form-control">
-                    <option selected>Choose...</option>
-                    <option>2019</option>
-                    <option>2018</option>
-                  </select>
-                </div>
-
-                <div class="form-group col-md-4">
-                  <label>Year</label>
-                  <select id="inputyear" class="form-control">
-                    <option selected>Choose...</option>
-                    <option>2019</option>
-                    <option>2018</option>
-                  </select>
-                </div>
-                <div class="form-group col-md-4">
-                  <label>CVV</label>
-                  <input type="text" class="form-control" id="inputZip">
-                </div>
-              </div> -->
-
             </fieldset>
 
 
@@ -96,14 +53,14 @@
             <div class="form-group row">
               <label class="col-sm-3 col-form-label">{{ i18n "donation_donor_name" }}</label>
               <div class="col-sm-9">
-                <input type="text" class="form-control" id="inputname" placeholder="Your Name">
+                <input type="text" class="form-control" id="inputname" placeholder="{{ i18n "donation_donor_name" }}">
               </div>
             </div>
 
             <div class="form-group row">
               <label class="col-sm-3 col-form-label">{{ i18n "donation_donor_email" }}</label>
               <div class="col-sm-9">
-                <input type="email" class="form-control" id="inputEmail3" placeholder="Email">
+                <input type="email" class="form-control" id="inputEmail3" placeholder="{{ i18n "donation_donor_email" }}">
               </div>
             </div>
 
@@ -111,7 +68,7 @@
             <div class="form-group row">
               <label class="col-sm-3 col-form-label">{{ i18n "donation_donor_phone" }}</label>
               <div class="col-sm-9">
-                <input type="number" class="form-control" id="inputphone" placeholder="Phone">
+                <input type="number" class="form-control" id="inputphone" placeholder="{{ i18n "donation_donor_phone" }}">
               </div>
             </div>
 
@@ -119,7 +76,7 @@
               <label class="col-sm-3 col-form-label">{{ i18n "donation_donor_country" }}</label>
               <div class="col-sm-9">
                 <select id="inputState" class="form-control">
-                  <option selected>Choose Country</option>
+                  <option selected>{{ i18n "donation_donor_country" }}</option>
                   <option>USA</option>
                   <option>Italy</option>
                   <option>BD</option>
@@ -134,14 +91,14 @@
             <div class="form-group row">
               <label class="col-sm-3 col-form-label">{{ i18n "donation_donor_address" }}</label>
               <div class="col-sm-9">
-                <input type="text" class="form-control" id="inputname2" placeholder="Your Name">
+                <input type="text" class="form-control" id="inputname2" placeholder="{{ i18n "donation_donor_address" }}">
               </div>
             </div>
 
             <div class="form-group row">
               <label class="col-sm-3 col-form-label">{{ i18n "donation_donor_city" }}</label>
               <div class="col-sm-9">
-                <input type="text" class="form-control" id="inputname3" placeholder="Your Name">
+                <input type="text" class="form-control" id="inputname3" placeholder="{{ i18n "donation_donor_city" }}">
               </div>
             </div>
 
@@ -163,7 +120,7 @@
                 <div class="form-check">
                   <input class="form-check-input" type="checkbox" id="gridCheck2">
                   <label class="form-check-label">
-                    {{ i18n "donation_donor_consent1" }}<span class="font-weight-bold">{{ i18n "donation_donor_consent2" }}</span> {{ i18n "donation_donor_consent3" }}
+                    {{ i18n "donation_donor_consent1" }} <span class="font-weight-bold">{{ i18n "donation_donor_consent2" }}</span> {{ i18n "donation_donor_consent3" }}
                   </label>
                 </div>
               </div>
@@ -180,24 +137,14 @@
 
       <div class="col-lg-4">
         <div class="offline-donation mt-5 mt-lg-0">
-          <h4 class="mb-5">In order to make an offline donation we ask that you please follow these instructions:</h4>
+          <h4 class="mb-5">{{ i18n "offline_donation" }}:</h4>
 
           <ul class="list-unstyled">
-            <li>1. Make a check payable to <span>"Charite"</span></li>
-            <li>2. On the memo line of the check, please indicate that the donation is for <span>"Charite"</span></li>
-            <li>3. Please mail your check to:
-
-              <address>
-                Chariti
-                111 Not A Real St.
-                Anytown, CA 12345
-              </address>
-            </li>
-            <li>4. Email us in detials : <span>donation@chareti.org</span></li>
-            <li>5. Contact us at Phone: <span>+91-11-41716555, Mob: +91 8130088239</span></li>
+            <li>1. {{ i18n "offline_donation1" }}</li>
+            <li>2. {{ i18n "offline_donation2" }}</li>
           </ul>
 
-          <p>All contributions will be gratefully acknowledged and are tax deductible.</p>
+          <p>{{ i18n "offline_donation3" }}.</p>
         </div>
       </div>
     </div>

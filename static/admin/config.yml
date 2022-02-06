@@ -72,8 +72,10 @@ collections:
       - { label: 'Categorie', name: 'categ', widget: 'list', default: ["past","present","future"] }
       - { label: 'Continut', name: 'body', widget: 'markdown' }
   - name: "settings"
+    label: "Settings"
     files:
       - label: "Setari"
+        name: "Setari"
         file: "data/ro/homepage.yml"
         widget: "list"
         fields:

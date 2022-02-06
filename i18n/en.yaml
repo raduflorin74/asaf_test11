@@ -306,3 +306,15 @@
 
 - id : donation_donate_now
   translation: Donate Now
+
+- id : offline_donation
+  translation : In order to make an offline donation we ask that you please follow these instructions
+
+- id : offline_donation1
+  translation : Please email us to asprijinartefrumoase@gmail.com
+
+- id : offline_donation2
+  translation : Contact us at Phone +40743490071
+
+- id : offline_donation3
+  translation : All contributions will be gratefully acknowledged and are tax deductible.

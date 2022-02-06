@@ -8,8 +8,6 @@ bgImage: "images/bg/bg-3.jpg"
 
 **Fi partenerul nostru in proiectul de sprijinire a artei**
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto deserunt quo aliquid porro corrupti,
-pariatur, quaerat culpa libero sunt assumenda eos nihil facilis, inventore mollitia a? Excepturi sed, ex quam.
 
 #### Beneficii de ambasador
 

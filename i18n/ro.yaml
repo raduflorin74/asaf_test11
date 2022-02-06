@@ -296,7 +296,7 @@
   translation: Bifați căsuța dacă doriți acunderea informațiilor personale
 
 - id : donation_donor_consent1
-  translation: Sunt de acord
+  translation: Sunt de acord 
 
 - id : donation_donor_consent2
   translation: ca persoanele reprezentative
@@ -306,3 +306,15 @@
 
 - id : donation_donate_now
   translation: Donez
+
+- id : offline_donation
+  translation : Pentru donații off-line vă rugăm să urmați instrucțiunile de mai jos
+
+- id : offline_donation1
+  translation : Trimiteți un email la asprijinartefrumoase@gmail.com
+
+- id : offline_donation2
+  translation : Contactați-ne la telefon +40743490071
+
+- id : offline_donation3
+  translation : Toate donațiile sunt recunoscute și deductibile.

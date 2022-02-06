@@ -8,8 +8,6 @@ bgImage: "images/bg/bg-3.jpg"
 
 **Become our pertner in the priject of supporting art**
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto deserunt quo aliquid porro corrupti,
-pariatur, quaerat culpa libero sunt assumenda eos nihil facilis, inventore mollitia a? Excepturi sed, ex quam.
 
 #### Ambassador benefits
 
