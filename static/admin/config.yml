@@ -74,9 +74,9 @@ collections:
   - name: "settings"
     label: "Settings"
     files:
-      - label: "Setari"
-        name: "Setari"
-        file: "data/ro/homepage.yml"
+      - label: "Gallery"
+        name: "Gallery"
+        file: "data/ro/gallery.yml"
         widget: "list"
         fields:
           - { label: 'Imagine', name: 'Image', widget: 'image' }
