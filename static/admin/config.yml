@@ -71,12 +71,12 @@ collections:
       - { label: 'Tip', name: 'type', widget: 'string',default: 'event' }
       - { label: 'Categorie', name: 'categ', widget: 'list', default: ["past","present","future"] }
       - { label: 'Continut', name: 'body', widget: 'markdown' }
-  - name: 'gallery'
-    label: 'Galeria virtuala'
-    folder: 'content/romanian/gallery'
-    widget: "list"
-    create: true
-    editor:
-      preview: true
-    fields:
-      - { label: "Imagine", name: "thumbnail",   widget: "image", choose_url: true  , allow_multiple : true}
+    - name: "settings"
+      files:
+        - name: "Setari"
+          label: "AuthSetariors"
+          file: "data/ro/homepage.yml"
+              name: "galerie"
+              widget: "list"
+              fields:
+                - { label: 'Imagine', name: 'Image', widget: 'image' }
