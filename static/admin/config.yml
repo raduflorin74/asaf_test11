@@ -25,7 +25,7 @@ collections:
     folder: 'content/english/blog'
     create: true
     editor:
-      preview: ftruealse
+      preview: true
     fields:
       - { label: 'Titlu', name: 'title', widget: 'string' }
       - { label: 'Data Publicare', name: 'date', widget: 'datetime' }
