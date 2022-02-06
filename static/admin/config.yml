@@ -73,10 +73,10 @@ collections:
       - { label: 'Continut', name: 'body', widget: 'markdown' }
   - name: "settings"
     files:
-        name: "Setari"
+      - name: "Setari"
         label: "Setari"
         file: "data/ro/homepage.yml"
-            name: "galerie"
-            widget: "list"
-            fields:
-              - { label: 'Imagine', name: 'Image', widget: 'image' }
+        name: "galerie"
+        widget: "list"
+        fields:
+          - { label: 'Imagine', name: 'Image', widget: 'image' }
