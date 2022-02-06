@@ -78,5 +78,6 @@ collections:
         name: "Gallery"
         file: "data/ro/gallery.yml"
         widget: "list"
+        allow_add: true
         fields:
           - { label: 'Imagine', name: 'Image', widget: 'image' }
