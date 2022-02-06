@@ -10,7 +10,7 @@ collections:
     folder: 'content/romanian/blog'
     create: true
     editor:
-      preview: false
+      preview: true
     fields:
       - { label: 'Titlu', name: 'title', widget: 'string' }
       - { label: 'Data Publicare', name: 'date', widget: 'datetime' }
@@ -25,7 +25,7 @@ collections:
     folder: 'content/english/blog'
     create: true
     editor:
-      preview: false
+      preview: ftruealse
     fields:
       - { label: 'Titlu', name: 'title', widget: 'string' }
       - { label: 'Data Publicare', name: 'date', widget: 'datetime' }
@@ -40,7 +40,7 @@ collections:
     folder: 'content/romanian/event'
     create: true
     editor:
-      preview: false
+      preview: true
     fields:
       - { label: 'Titlu', name: 'title', widget: 'string' }
       - { label: 'Data Publicare', name: 'date', widget: 'datetime' }
@@ -51,14 +51,14 @@ collections:
       - { label: 'Locatie', name: 'location', widget: 'string',default: 'str. Constantin Esarcu, nr.1' }
       - { label: 'Organizator', name: 'organizer', widget: 'string',default: 'Galeria Rotenberg-Uzunov' }
       - { label: 'Tip', name: 'type', widget: 'string',default: 'event' }
-      - { label: 'Categorie', name: 'categ', widget: 'string' }
+      - { label: 'Categorie', name: 'categ', widget: 'list', default: ["past","present","future"] }
       - { label: 'Continut', name: 'body', widget: 'markdown' }
   - name: 'event_en'
     label: 'Evenimente Engleza'
     folder: 'content/english/event'
     create: true
     editor:
-      preview: false
+      preview: true
     fields:
       - { label: 'Titlu', name: 'title', widget: 'string' }
       - { label: 'Data Publicare', name: 'date', widget: 'datetime' }
@@ -69,5 +69,13 @@ collections:
       - { label: 'Locatie', name: 'location', widget: 'string',default: 'str. Constantin Esarcu, nr.1' }
       - { label: 'Organizator', name: 'organizer', widget: 'string',default: 'Galeria Rotenberg-Uzunov' }
       - { label: 'Tip', name: 'type', widget: 'string',default: 'event' }
-      - { label: 'Categorie', name: 'categ', widget: 'string' }
+      - { label: 'Categorie', name: 'categ', widget: 'list', default: ["past","present","future"] }
       - { label: 'Continut', name: 'body', widget: 'markdown' }
+  - name: 'gallery'
+    label: 'Galeria virtuala'
+    folder: 'content/romanian/gallery'
+    create: true
+    editor:
+      preview: true
+    fields:
+      - { label: "Imagine", name: "thumbnail",   widget: "image", choose_url: true  , config: { multiple: true }}
