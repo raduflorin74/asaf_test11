@@ -5,17 +5,10 @@
 <section class="section event">
   <div class="container">
     <div class="row justify-content-center">
-      {{ $paginator := .Paginate .Data.Pages }}
+      {{ $paginator := .Paginate (where .Site.Pages  "Params.type" "event" ) }}
 
-      <!-- {{ $categ := "oo" }}
-      {{ if gt (sub now.YearDay .Date.YearDay) 10 }}
-      {{ $categ = "past" }}
-      {{ else }}
-      {{ $categ = "present" }}
-       {{ end }} -->
-
-
-      {{ range (where .Paginator.Pages ".Params.categ" "present") }}
+      
+      {{ range (where $paginator.Pages "Params.categ" "present") }}
       <div class="col-lg-4 col-md-6">
         <div class="card event-item mb-4">
           <img src="{{ .Params.Image | absURL }}" class="card-img-top" alt="{{ .Title | markdownify }}">

@@ -5,35 +5,10 @@ backend:
 media_folder: "static/images"
 public_folder: "/images"
 collections:
-  - name: "romanian"
-    label: "Pagini Romana"
-    folder: "content/romanian"
-    path: "{{slug}}/index"
-    media_folder: ""
-    public_folder: ""
-    create: true
-    fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Description', name: 'description', widget: 'string' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
-  - name: 'english'
-    label: 'Pagini Engleza'
-    folder: 'content/english'
-    path: "{{slug}}/index"
-    media_folder: ""
-    public_folder: ""
-    create: true
-    fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Description', name: 'description', widget: 'string' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'blog_ro'
     label: 'Blog Romana'
     folder: 'content/romanian/blog'
     create: true
-    #slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
       preview: false
     fields:
@@ -49,7 +24,6 @@ collections:
     label: 'Blog Engleza'
     folder: 'content/english/blog'
     create: true
-    #slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
       preview: false
     fields:
@@ -65,7 +39,6 @@ collections:
     label: 'Evenimente Romana'
     folder: 'content/romanian/event'
     create: true
-    #slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
       preview: false
     fields:
@@ -84,7 +57,6 @@ collections:
     label: 'Evenimente Engleza'
     folder: 'content/english/event'
     create: true
-    #slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
       preview: false
     fields:

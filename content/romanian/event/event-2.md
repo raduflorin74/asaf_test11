@@ -9,7 +9,7 @@ eventDate: "29 Octombrie – 10 Noiembrie 2020"
 location: "str. Constantin Esarcu, nr.1"
 organizer: "Rotenberg – Uzunov Art Gallery"
 type: "event"
-categ : "past"
+categ : "future"
 ---
 
 # Expoziţie de nuduri

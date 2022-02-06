@@ -5,41 +5,10 @@
 <section class="section event">
   <div class="container">
     <div class="row justify-content-center">
-      <!-- {{ $paginator := .Paginate .Data.Pages }} -->
-      {{ $paginator := .Paginate .Site.GetPage "/event" }}
+      {{ $paginator := .Paginate (where .Site.Pages  "Params.type" "event" ) }}
 
-      <!-- {{ $categ := "oo" }}
-      {{ if gt (sub now.YearDay .Date.YearDay) 10 }}
-      {{ $categ = "past" }}
-      {{ else }}
-      {{ $categ = "present" }}
-       {{ end }} -->
-
-
-<!--       {{ $currentPage := . }}
-
-      {{ range .Site.Menus.main }}
-
-{{ if .HasChildren }}
-{{ range .Children }}
-  {{ $currentPage.HasMenuCurrent "title" .}}
-
-          {{ $menu_item_url := .Title  }}
-          <h1>a{{ $menu_item_url }} </h1> 
-          <br />
-          {{ $page_url:= $currentPage.RelPermalink | relLangURL }}
-<h1>b{{ $page_url }} </h1> 
-          {{ if eq $menu_item_url $page_url }}
-              <h1>X {{$menu_item_url}} </h1>
-           <h1>Z </h1> 
-          {{ end }}
-{{end}}
-{{end}}
-      {{ end }} -->
-
-
-
-      {{ range (where $paginator.Pages ".Params.categ" "past") }}
+      
+      {{ range (where $paginator.Pages "Params.categ" "past") }}
       <div class="col-lg-4 col-md-6">
         <div class="card event-item mb-4">
           <img src="{{ .Params.Image | absURL }}" class="card-img-top" alt="{{ .Title | markdownify }}">
