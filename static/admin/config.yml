@@ -91,3 +91,18 @@ collections:
       - {label: "Title", name: "imgTitle", widget: "string"}
       - {label: "Gallery Image", name: "imgSrc", widget: "image"}
       - {label: "Description", name: "imgDesc", widget: "string"}
+  - name: “supporters”
+    label: “Supporters”
+    create: true
+    files:
+      - label: “Supporter Logos”
+        name: “logos”
+        file: “data/ro/gallery.yml”
+        fields:
+          - { label: “Title”, name: “title”, widget: “string” }
+          - name: items
+            label: Supporter
+            widget: list
+            fields:
+            - { label: “name”, name: “name”, widget: “string” }
+            - { label: “logo”, name: “logo”, widget: “image” }
