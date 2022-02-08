@@ -52,10 +52,11 @@
 
 					<div class="gallery-wrap">
 						<div class="row mx-0">
-							{{ range first 9 $data.homepage.gallery.galleryItems }}
+
+							{{ range first 9 $data.gallery.imagini }}
 							<div class="col-4 px-1 mb-2">
-								<a  href="{{ .image | absURL }}" class="gallery-popup">
-									<img src="{{ .image | absURL }}" alt="" class="img-fluid w-100">
+								<a  href="{{ .imagine | absURL }}" class="gallery-popup">
+									<img src="{{ .imagine | absURL }}" alt="" class="img-fluid w-100">
 								</a>
 							</div>
 							{{ end }}

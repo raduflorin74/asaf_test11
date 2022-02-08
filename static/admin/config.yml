@@ -71,38 +71,31 @@ collections:
       - { label: 'Tip', name: 'type', widget: 'string',default: 'event' }
       - { label: 'Categorie', name: 'categ', widget: 'list', default: ["past","present","future"] }
       - { label: 'Continut', name: 'body', widget: 'markdown' }
-  - name: "settings"
-    label: "Settings"
-    files:
-      - label: "Gallery"
-        name: "Gallery"
-        file: "data/ro/gallery.yml"
-        widget: "list"
-        allow_add: true
-        summary: '{{fields.image}}'
-        fields:
-          - { label: 'Imagine', name: 'Image', widget: 'image' }
-  - name: "galleria"
-    label: "galleria"
-    folder: 'content/romanian/gallery' 
-    widget: "list"
-    optional: true
-    fields:
-      - {label: "Title", name: "imgTitle", widget: "string"}
-      - {label: "Gallery Image", name: "imgSrc", widget: "image"}
-      - {label: "Description", name: "imgDesc", widget: "string"}
-  - name: "imagini"
-    label: "Imagini"
+  - name: "Galerie_ro"
+    label: "Galerie Romana"
     create: true
     files:
       - label: "Galerie"
-        name: "gallery"
+        name: "galerie"
         file: "data/ro/gallery.yml"
         fields:
-          - { label: "Titlu", name: "titlu", widget: "string" }
           - name: "imagini"
-            label: "Imagine"
+            label: "Imagini"
             widget: list
             fields:
-            - { label: "Nume", name: "nume", widget: "string" }
+            - { label: "Tilu imagine", name: "nume", widget: "string" }
             - { label: "Imagine", name: "imagine", widget: "image" }
+  - name: "Galerie_en"
+    label: "Galerie Engleza"
+    create: true
+    files:
+      - label: "Gallery"
+        name: "gallery"
+        file: "data/en/gallery.yml"
+        fields:
+          - name: "imagini"
+            label: "Images"
+            widget: list
+            fields:
+            - { label: "Title image", name: "nume", widget: "string" }
+            - { label: "Image", name: "imagine", widget: "image" }
