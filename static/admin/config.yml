@@ -82,3 +82,12 @@ collections:
         summary: '{{fields.image}}'
         fields:
           - { label: 'Imagine', name: 'Image', widget: 'image' }
+  - name: "galleria"
+    label: "galleria"
+    folder: 'content/romanian/gallery' 
+    widget: "list"
+    optional: true
+    fields:
+      - {label: "Title", name: "imgTitle", widget: "string"}
+      - {label: "Gallery Image", name: "imgSrc", widget: "image"}
+      - {label: "Description", name: "imgDesc", widget: "string"}
