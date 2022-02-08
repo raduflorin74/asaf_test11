@@ -97,7 +97,7 @@ collections:
     files:
       - label: "Galerie"
         name: "gallery"
-        file: “data/ro/gallery.yml”
+        file: "data/ro/gallery.yml"
         fields:
           - { label: "Titlu", name: "titlu", widget: "string" }
           - name: "imagini"
