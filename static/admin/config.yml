@@ -51,7 +51,7 @@ collections:
       - { label: 'Locatie', name: 'location', widget: 'string',default: 'str. Constantin Esarcu, nr.1' }
       - { label: 'Organizator', name: 'organizer', widget: 'string',default: 'Galeria Rotenberg-Uzunov' }
       - { label: 'Tip', name: 'type', widget: 'string',default: 'event' }
-      - { label: 'Categorie', name: 'categ', widget: 'list', default: ["past","present","future"] }
+      - { label: 'Categorie', name: 'categ', widget: 'select', default: ["past","present","future"] }
       - { label: 'Continut', name: 'body', widget: 'markdown' }
   - name: 'event_en'
     label: 'Evenimente Engleza'
@@ -69,7 +69,7 @@ collections:
       - { label: 'Locatie', name: 'location', widget: 'string',default: 'str. Constantin Esarcu, nr.1' }
       - { label: 'Organizator', name: 'organizer', widget: 'string',default: 'Galeria Rotenberg-Uzunov' }
       - { label: 'Tip', name: 'type', widget: 'string',default: 'event' }
-      - { label: 'Categorie', name: 'categ', widget: 'list', default: ["past","present","future"] }
+      - { label: 'Categorie', name: 'categ', widget: 'select', default: ["past","present","future"] }
       - { label: 'Continut', name: 'body', widget: 'markdown' }
   - name: "Galerie_ro"
     label: "Galerie Romana"
