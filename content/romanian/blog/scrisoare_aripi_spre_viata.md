@@ -4,7 +4,7 @@ date: 2019-09-25T11:28:32+06:00
 draft: false
 description : "this is a meta description"
 bgImage: "images/bg/bg-3.jpg"
-image: "http://rf-software.com/asaf_storage/Scrisoare_ASAF_1.jpg"
+image: "https://rf-software.com/asaf_storage/Scrisoare_ASAF_1.jpg"
 categories: 
   - "Education"
 tags:
