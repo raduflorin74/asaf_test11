@@ -100,7 +100,7 @@ SearchURL="search"
 [[params.social]]
 name = "Facebook"
 icon = "ti-facebook" # themify icon pack https://themify.me/themify-icons
-link = "https://www.facebook.com/ASAF-104568341534934"
+link = "https://www.facebook.com/AsociatiaCulturalaSprijinireaArtelorFrumoase/"
 
 #[[params.social]]
 #name = "Twitter"
@@ -121,7 +121,7 @@ link = "https://www.instagram.com/asprijinartefrumoase/"
 [[params.postShare]]
 icon = "ti-facebook" # themify icon pack https://themify.me/themify-icons
 name = "facebook"
-link = "https://www.facebook.com/ASAF-104568341534934"
+link = "https://www.facebook.com/AsociatiaCulturalaSprijinireaArtelorFrumoase/"
 
 #[[params.postShare]]
 #icon = "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
