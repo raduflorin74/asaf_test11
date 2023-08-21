@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Asociația ARIPI SPRE VIAȚA
+title: Wings For Life  Association
 date: 2019-09-25T11:28:32+06:00
 description: this is a meta description
 bgImage: images/bg/bg-3.jpg
