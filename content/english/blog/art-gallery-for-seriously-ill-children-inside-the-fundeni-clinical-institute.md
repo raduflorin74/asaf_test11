@@ -1,6 +1,6 @@
 ---
 title: Art gallery for seriously ill children, inside the Fundeni Clinical Institute
-date: 2023-08-21T12:02:39.831Z
+date: 2020-12-07T13:02:39.831Z
 description: The "Art gives hope" project was initiated by the businessman
   Eduard Uzunov, the Rotenberg-Uzunov Gallery, the "Association for the Support
   of Fine Arts" (ASAF) and the "Wings for Life" Association. It consists in
