@@ -4,7 +4,7 @@ title: 40 paintings were donated to the Fundeni Clinical Institute within the
 date: 2020-12-11T14:30:04.971Z
 description: "this is a meta description "
 bgImage: /images/148431343_106683991455108_8416636230547648661_n.jpg
-image: /images/308855730_402532058682072_8896081903517995887_n.jpg
+image: /images/182371713_106188431629698_5108542657637711538_n.jpg
 tags:
   - new
 type: post
