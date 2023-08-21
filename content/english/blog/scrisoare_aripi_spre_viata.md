@@ -1,48 +1,36 @@
 ---
-title: "Asociația ARIPI SPRE VIAȚA"
-date: 2019-09-25T11:28:32+06:00
 draft: false
-description : "this is a meta description"
-bgImage: "images/bg/bg-3.jpg"
-image: "https://rf-software.com/asaf_storage/Scrisoare_ASAF_1.jpg"
-categories: 
-  - "Education"
+title: Asociația ARIPI SPRE VIAȚA
+date: 2019-09-25T11:28:32+06:00
+description: this is a meta description
+bgImage: images/bg/bg-3.jpg
+image: https://rf-software.com/asaf_storage/Scrisoare_ASAF_1.jpg
 tags:
-  - "water"
-  - "new"
-  - "help"
-type: "post"
+  - water
+  - new
+  - help
+type: post
+categories:
+  - Education
 ---
+**Wings For Life  Association, for
+CULTURAL ASSOCIATION FOR THE SUPPORT OF FINE ARTS**
 
-Asociatia ARIPI SPRE VIAȚA
-PENTRU,
-ASOCIAȚIA PENTRU SPRIJINIREA ARTELOR FRUMOASE
-In spatele fiecărui proiect de succes există mai mulți oameni care prin ceea ce fac și datorită modului în care miscă lucrurile te mobilizează să vrei și să faci mult bine.
+Behind every successful project there are several people who, through what they do and the way they move things, mobilize you to want and do a lot of good.
 
-În aceste rânduri vreau să mulțumesc unor oameni minunați, care prin
-implicare și multă dragoste pentru copii ne-au condus într-o poveste panaceu
-pentru suflete, proiectul "ARTA DĂ SPERANȚĂ".
+In these lines, I want to thank some wonderful people, who through involvement and a lot of love for children, led us into a panacea story for the souls, the "ART GIVES HOPE" project.
 
-Parteneriatul nostru a însemnat multe ore de muncă, discuții și idei puse
-pe hârtie, o colaborare dincolo de cele obișnuite și un proiect "altfel" care a
-îmbogățit secția de pediatrie a lnstitutului Clinic Fundeni și Centrul de spitalizare
-de zi pediatrie cu 40 de tablouri donate de 23 de artiști prin Galeria de Artă
-Rothenberg-Uzunov.
+Our partnership meant many hours of work, discussions and ideas put on paper, a collaboration beyond the usual ones and a "different" project that enriched the pediatric department of the Fundeni Clinic Institute and the Pediatric Day Hospitalization Center with 40 donated paintings by 23 artists through the Rotenberg-Uzunov Art Gallery.
 
-Asociația pentru Sprijinirea Artelor Fumoase împreună cu Galeria de Artă
-Rothenberg-Uzunov au fost inițiatorii și gazdele noastre pentru proiectul "ARTA
-DĂ SPRERANȚĂ", au susținut proiectul și au comunicat în permanență cu artiștii
-care și-au dorit să doneze aceste lucrări pentru bucuria și vindecarea copiilor
-afectați de cancer și alte boli grave. Multe culori, personaje îndrăgite, clowni și
-arlechini, lumina și splendoare, în aceste tablouri care suntem siguri că vor fi
-parte ale unor povești cu final fericit.
-Am fost în mod special încântați să vă fim parteneri și vă mulțumim foarte
-mult pentru un proiect care dincolo de cuvinte va rămâne mărturie în timp, un
-proiect care nu ar fi fost niciodată realizabil fără sprijinul vostru necondiționat.
-Am fost încântați să lucrăm împreună, în mod miraculos bunătatea,
-compasiunea și generozitatea nu au încetat să se manifeste în tot ce a însemnat
-proiectul "ARTA DĂ SPERANȚĂ" și de aceea am întampinat cu bucurie
-propunerea de a continua împreună.
-Vă mulțumim,
-Presedinte Aripi Spre Viață
+CULTURAL ASSOCIATION FOR THE SUPPORT OF FINE ARTS together with the Rotenberg-Uzunov Art Gallery were our initiators and hosts for the "ART GIVES HOPE" project, they supported the project and constantly communicated with the artists who wanted to donate these works for joy and healing children affected by cancer and other serious diseases. Many colors, beloved characters, clowns and harlequins, light and splendor, in these paintings that we are sure will be part of some stories with a happy ending. 
+
+We were especially pleased to partner with you and thank you very much
+much for a project that beyond words will remain testimony in time, a project that would never have been possible without your unconditional support.
+We were delighted to work together, miraculously goodness,
+compassion and generosity have not stopped manifesting themselves in everything that the "ART GIVES HOPE" project has meant, and that is why we welcomed with joy the proposal to continue together.
+
+
+
+Thank you,
+President Wings For Life
 Nicoleta Stoenescu
