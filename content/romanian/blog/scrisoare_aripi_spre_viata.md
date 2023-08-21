@@ -13,9 +13,7 @@ type: post
 categories:
   - Education
 ---
-### Asociația ARIPI SPRE VIAȚĂ
-
-### PENTRU, ASOCIAȚIA PENTRU SPRIJINIREA ARTELOR FRUMOASE 
+### Asociația ARIPI SPRE VIAȚĂ PENTRU, ASOCIAȚIA PENTRU SPRIJINIREA ARTELOR FRUMOASE  
 
 În spatele fiecărui proiect de succes există mai mulți oameni care prin ceea ce fac și datorită modului în care mișcă lucrurile te mobilizează să vrei și să faci mult bine.
 
