@@ -2,14 +2,14 @@
 title: "#weriseamilion: Fundraising campaign for children who need ventilation
   at home"
 date: 2021-12-07T13:21:04.006Z
-description: Fundraising campaign for children who need ventilation at home
+description: this is a meta description
 bgImage: /images/img_3519bvbvbv.jpg
 image: /images/264495718_228232822758591_4239098221493012879_n.jpg
 tags:
   - new
 type: post
 ---
-**The Rotenberg-Uzunov Gallery, the Cultural Association for the Support of Fine Arts (ASAF) and the Aripi Spre Viață Association are launching the #strangemunmillion campaign, for the benefit of children who need ventilation at home.**
+**The Rotenberg-Uzunov Gallery, the Cultural Association for the Support of Fine Arts (ASAF) and the Wings for Life Association, are launching the #weriseamillion campaign, for the benefit of children who need ventilation at home.**  
 
 The initiative aims to raise the necessary sums for the purchase of ventilation devices, to pay the rents of the already existing ones, and their specific consumables, for the year 2022.
 
@@ -25,4 +25,4 @@ The congratulations can be purchased at the Rotenberg-Uzunov Gallery headquarter
 
 
 
-Article taken from Forbes Romania: https://www.forbes.ro/strangemunmilion-campanie-de-strangere-de-fonduri-pentru-copiii-care-au-nevoie-de-ventilatie-la-domiciliu-239525
+Source: Article taken from Forbes Romania: https://www.forbes.ro/strangemunmilion-campanie-de-strangere-de-fonduri-pentru-copiii-care-au-nevoie-de-ventilatie-la-domiciliu-239525
