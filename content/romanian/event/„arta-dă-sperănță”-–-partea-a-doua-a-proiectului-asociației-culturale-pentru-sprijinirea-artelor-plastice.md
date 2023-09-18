@@ -1,5 +1,5 @@
 ---
-title: „ARTA DĂ SPERĂNȚĂ” – partea a doua a proiectului Asociației Culturale
+title: „ARTA DĂ SPERANȚĂ” – partea a doua a proiectului Asociației Culturale
   pentru Sprijinirea Artelor Plastice
 date: 2021-03-10T17:06:41.037Z
 description: this is a meta description
