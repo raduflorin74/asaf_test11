@@ -1,33 +1,30 @@
 ---
 draft: false
-title: "Cadou de principesă:  tablouri unicat pentru camera mezinei Principelui
-  Nicolae"
+title: "Princess gift: unique paintings for Prince Nicolae's little girl's room"
 date: 2020-09-25T11:28:32+06:00
 description: this is a meta description
 bgImage: images/bg/bg-3.jpg
 image: images/about/IMG_7362.jpg
 eventDate: 23 decembrie 2020
-location: str. Constantin Esarcu, nr.1
-organizer: Galeria Rotenberg-Uzunov
+location: street Constantin Esarcu 1
+organizer: Rotenberg-Uzunov Art Gallery
 type: event
 categ: past
 ---
+Santa came early for Prince Nicolae of Romania and his youngest daughter, Maria-Alexandra, who was born at the beginning of November this year. Through the Rotenberg-Uzunov gallery, the Princess received as a gift two unique paintings for her room, one of them representing the little girl herself, surrounded by some of the most famous animated characters. Her father received a portrait of her great-great-grandmother, Queen Maria of Romania.
 
+The idea of offering this royal gift came to the businessman Eduard Uzunov two weeks ago, during the charity event "Art gives hope", organized for sick children hospitalized at the Fundeni Clinical Institute.
 
-Moș Crăciun a venit mai devreme pentru Principele Nicolae al României și fiica sa cea mică, Maria-Alexandra, care a venit pe lume la începutul lunii noiembrie a acestui an. Prin intermediul galeriei Rotenberg –Uzunov, Principesa a primit în dar două tablouri unicat pentru camera sa, unul din acestea reprezentând-o chiar pe micuță, înconjurată de câteva din cele mai celebre personaje animate. Tatăl ei a primit un portret al stră-străbunicii sale, Regina Maria a României. 
+"When we organized "Arta gives hope", Nicolae came, like every time at the events of the Rotenberg-Uzunov gallery, and he really liked some of the works that were going to be donated to the Fundeni Clinical Institute. One, which was practically the central work of the collection, representing a panda bear in the jungle, made by plastic artist Arina Bican, as well as two works by plastic artist Martina Grigorita, with animated characters. Then I thought of this Christmas present for Maria-Alexandra and the idea enjoyed the unconditional support of the two artists. In order to make one of the works, I had to tell Nicolae about our intention, so that we could get a photo of the little one, which could be reproduced, but we agreed together that the gift should be a total surprise for the Prince's wife, Alina - Maria", declared Eduard Uzunov.
 
-Ideea oferirii acestui dar regal i-a venit omului de afaceri Eduard Uzunov în urmă cu două săptămâni, în timpul evenimentului caritabil „Arta dă speranță”, organizat pentru copiii bolnavi, internați la Institutul Clinic Fundeni.
+Thus, the wife of Nicolae of Romania stopped by the Rotenberg-Uzunov Gallery, at her husband's insistence, without knowing what was waiting for her, so the gift offered in the presence of the two artists and some art friends had the desired effect.
 
-„Când am organizat „Arta dă speranță” a venit Nicolae, ca de fiecare dată la evenimentele galeriei Rotenberg-Uzunov și i-au plăcut foarte mult câteva din lucrările care urmau să fie donate Institutului Clinic Fundeni. Una, care a fost practic lucrarea centrală a colecției, reprezentând un urs panda în junglă, realizată de artistul plastic  Arina Bican, precum și două lucrări ale artistului plastic Martina Grigoriță, cu personaje animate. Atunci m-am gândit la acest cadou de Crăciun pentru Maria-Alexandra și ideea s-a bucurat de susținerea necondiționată a celor două artiste. Pentru a realiza una din lucrări a fost nevoie să îi spun lui Nicolae despre intenția noastră, ca să putem obține o fotografie a micuței, care să poată fi reprodusă, dar am convenit împreună ca darul să fie o surpriză totală pentru soția Principelui, Alina –Maria”, a declarat Eduard Uzunov.
+"The fact that the artists made these works from the heart can be felt from what the work conveys or, as they say, from the way God closes that work. I hope that the love from the work will be transmitted to Maria-Alexandra", said Eduard Uzunov.
 
-Astfel, soția lui Nicolae al României a trecut pe la Galeria Rotenberg-Uzunov, la insistențele soțului ei, fără a ști ce o așteaptă, așa că darul oferit în prezența celor două artiste și a câtorva prieteni ai artei, a avut efectul dorit. 
+For her part, the Prince's wife declared that it is "a supersurprise that they will remember all their lives" and that she is honored to receive such a gift, adding that the frame of the painting in which her little girl appears is exactly the color of the furniture in the little one's room: pink.
 
-„Faptul că artistele au făcut aceste lucrări din suflet se simte din ce transmite lucrarea sau, cum se spune, din felul în care Dumnezeu închide lucrarea respectivă. Sper ca dragostea din lucrare să se transmită asupra Mariei-Alexandra”, a mai spus Eduard Uzunov.
+Even if the limited event was set up with his complicity and Prince Nicolae had a surprise: he received as a gift a work signed by Martina Grigoriță, a portrait of his great-great-grandmother, Queen Maria of Romania.
 
-La rândul său, soția Principelui a declarat că este „o supersurpriză de care își vor aminti toată viața” și că este onorată să primească un asemenea dar, adăugând că rama tabloului în care apare fetița ei are exact culoarea mobilei din camera micuței: roz. 
+"I already know where I'm going to put this work with Queen Mary! It will be placed next to another work, with my grandfather, King Michael I of Romania. They must stay together", said Nicolae, impressed by the beauty of the painting.
 
-Chiar dacă evenimentul restrâns a fost pus la cale cu complicitatea sa și Principele Nicolae a avut parte de o surpriză: a primit în dar o lucrare semnată de Martina Grigoriță, un portret al stră-străbunicii sale, Regina Maria a României. 
-
-„Știu deja unde voi pune această lucrare cu Regina Maria! Va fi așezată lângă o altă lucrare, cu bunicul meu, Regele Mihai I al României. Trebuie să stea împreună”, a spus Nicolae, impresionat de frumusețea picturii. 
-
-Arina Bican și Martina Grigoriță fac parte dintre cei mai valoroși artiști plastici ai momentului, având deja nenumărate expoziții personale și de grup, proiecte și atestate care le recomandă. Dincolo de toate acestea, pentru orice privitor al lurărilor lor, cel mai impresionant este talentul artistelor în împletirea culorilor și stilul inconfundabil al fiecăreia dintre ele.
+Arina Bican and Martina Grigorita are among the most valuable visual artists of the moment, already having countless personal and group exhibitions, projects and certificates that recommend them. Beyond all this, for any viewer of their works, the most impressive thing is the talent of the artists in the interweaving of colors and the unmistakable style of each of them.
