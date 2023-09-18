@@ -1,13 +1,13 @@
 ---
 draft: false
-title: Expoziția "MEDITAȚIE"
+title: '"MEDITATION" exhibition'
 date: 2020-09-25T11:28:32+06:00
 description: this is a meta description
 bgImage: images/bg/bg-3.jpg
 image: images/about/APOSTU-EXPOZITIE-MEDITATIE-BT-2.jpg
 eventDate: 18 noiembrie 2020
 location: Bacau
-organizer: Centrul de Cultură "George Apostu"
+organizer: '"George Apostu" Culture Center'
 type: event
 categ: past
 ---
