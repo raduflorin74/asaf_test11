@@ -7,7 +7,7 @@ bgImage: images/bg/bg-3.jpg
 image: images/about/WhatsApp-Image-2020-10-23-at-21.35.20.jpeg
 eventDate: 29 Octombrie – 10 Noiembrie 2020
 location: str. Constantin Esarcu, nr.1
-organizer: Rotenberg – Uzunov Art Gallery
+organizer: ASAF- Rotenberg – Uzunov Art Gallery
 type: event
 categ: past
 ---
