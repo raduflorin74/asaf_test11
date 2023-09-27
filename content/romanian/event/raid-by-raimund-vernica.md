@@ -6,7 +6,7 @@ bgImage: /images/img_7777.jpg
 image: /images/afiș-raid-eveniment.jpg
 eventDate: 2021-03-18T16:33:37.152Z
 location: str. Constantin Esarcu, nr.1
-organizer: Galeria Rotenberg-Uzunov
+organizer: ASAF- Galeria Rotenberg-Uzunov
 type: event
 categ: past
 ---
