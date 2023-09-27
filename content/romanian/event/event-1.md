@@ -7,7 +7,7 @@ bgImage: images/bg/bg-3.jpg
 image: images/about/IMG_7308.jpg
 eventDate: 9 Decembrie 2020 ora 16:00.
 location: str. Constantin Esarcu, nr.1
-organizer: Rotenberg – Uzunov Art Gallery
+organizer: ASAF- Rotenberg – Uzunov Art Gallery
 type: event
 categ: past
 ---
