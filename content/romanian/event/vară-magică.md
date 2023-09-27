@@ -6,7 +6,7 @@ bgImage: /images/img_1047.jpg
 image: /images/cover-expoziție-vara-magică.jpeg
 eventDate: 2021-07-06T16:08:35.536Z
 location: str. Constantin Esarcu, nr.1
-organizer: Galeria Rotenberg-Uzunov
+organizer: "Galeria Rotenberg-Uzunov- ASAF "
 type: event
 categ: past
 ---
