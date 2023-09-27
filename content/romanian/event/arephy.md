@@ -6,7 +6,7 @@ bgImage: /images/192178317_5431184706956382_3587751330380485106_n.jpg
 image: /images/186995103_5371266619614858_8615043516137726395_n.jpg
 eventDate: 2021-05-17T15:52:46.616Z
 location: str. Constantin Esarcu, nr.1
-organizer: Galeria Rotenberg-Uzunov
+organizer: ASAF- Galeria Rotenberg-Uzunov
 type: event
 categ: past
 ---
