@@ -9,7 +9,7 @@ eventDate: 2023-12-04T16:37:04.763Z
 location: str. Constantin Esarcu, nr.1
 organizer: Galeria Rotenberg-Uzunov-ASAF
 type: event
-categ: future
+categ: present
 ---
 Prezentarea lucrărilor donate de către artiștii Galeriei Rotenberg-Uzunov- Pentru Gala Mifne România
 
