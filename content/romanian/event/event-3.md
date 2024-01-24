@@ -12,8 +12,6 @@ organizer: ASAF- Galeria Rotenberg-Uzunov
 type: event
 categ: past
 ---
-
-
 Moș Crăciun a venit mai devreme pentru Principele Nicolae al României și fiica sa cea mică, Maria-Alexandra, care a venit pe lume la începutul lunii noiembrie a acestui an. Prin intermediul galeriei Rotenberg –Uzunov, Principesa a primit în dar două tablouri unicat pentru camera sa, unul din acestea reprezentând-o chiar pe micuță, înconjurată de câteva din cele mai celebre personaje animate. Tatăl ei a primit un portret al stră-străbunicii sale, Regina Maria a României. 
 
 Ideea oferirii acestui dar regal i-a venit omului de afaceri Eduard Uzunov în urmă cu două săptămâni, în timpul evenimentului caritabil „Arta dă speranță”, organizat pentru copiii bolnavi, internați la Institutul Clinic Fundeni.
@@ -30,4 +28,4 @@ Chiar dacă evenimentul restrâns a fost pus la cale cu complicitatea sa și Pri
 
 „Știu deja unde voi pune această lucrare cu Regina Maria! Va fi așezată lângă o altă lucrare, cu bunicul meu, Regele Mihai I al României. Trebuie să stea împreună”, a spus Nicolae, impresionat de frumusețea picturii. 
 
-Arina Bican și Martina Grigoriță fac parte dintre cei mai valoroși artiști plastici ai momentului, având deja nenumărate expoziții personale și de grup, proiecte și atestate care le recomandă. Dincolo de toate acestea, pentru orice privitor al lurărilor lor, cel mai impresionant este talentul artistelor în împletirea culorilor și stilul inconfundabil al fiecăreia dintre ele.
+Arina Bican și Martina Grigoriță fac parte dintre cei mai valoroși artiști plastici ai momentului, având deja nenumărate expoziții personale și de grup, proiecte și atestate care le recomandă. Dincolo de toate acestea, pentru orice privitor al lucrărilor lor, cel mai impresionant este talentul artistelor în împletirea culorilor și stilul inconfundabil al fiecăreia dintre ele.
