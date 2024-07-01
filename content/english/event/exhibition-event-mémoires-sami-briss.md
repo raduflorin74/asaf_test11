@@ -1,5 +1,5 @@
 ---
-title: Exhibition-Event "MÉMOIRES" Sami Briss
+title: Exhibition-Event "MÉMOIRES" Samy Briss
 date: 2023-07-26T15:50:56.628Z
 description: this is meta description
 bgImage: /images/363732405_789536159341295_6432781549232322407_n.jpg
