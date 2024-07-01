@@ -4,7 +4,7 @@ date: 2021-11-17T13:16:35.518Z
 description: this is meta description
 bgImage: /images/img_7428.jpg
 image: /images/afis-desenez-deci-exist-horatiu-malaele-rotenberg-uzunov-art-gallery.jpeg
-eventDate: 2024-07-01T12:16:35.539Z
+eventDate: 2021-11-17T13:16:35.539Z
 location: str. Constantin Esarcu, nr.1
 organizer: ASAF- Galeria Rotenberg-Uzunov
 type: event
