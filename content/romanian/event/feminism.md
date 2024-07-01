@@ -6,7 +6,7 @@ bgImage: /images/img_6092.jpg
 image: /images/16317970765937028312701798146367.jpg
 eventDate: 2021-09-21T16:01:01.487Z
 location: str. Constantin Esarcu, nr.1
-organizer: Galeria Rotenberg-Uzunov- ASAF
+organizer: ASAF-Galeria Rotenberg-Uzunov
 type: event
 categ: past
 ---
