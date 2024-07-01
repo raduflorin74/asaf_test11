@@ -7,9 +7,9 @@ bgImage: /images/mifne-expo-prezentare.jpg
 image: /images/rotenberg-uzunov-art-gallery-mifne-romania.jpg
 eventDate: 2023-12-04T15:52:52.848Z
 location: str. Constantin Esarcu, nr.1
-organizer: Galeria Rotenberg-Uzunov-ASAF
+organizer: ASAF-Galeria Rotenberg-Uzunov
 type: event
-categ: present
+categ: past
 ---
 Presentation of the works donated by the artists of the Rotenberg-Uzunov Gallery - For the Gala Mifne Romania
 
