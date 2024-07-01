@@ -1,5 +1,5 @@
 ---
-title: Personal Memory Projections"
+title: '"Personal Memory Projections"'
 date: 2022-02-03T14:36:29.273Z
 description: this is a meta description
 bgImage: /images/img_8919-2.jpg
