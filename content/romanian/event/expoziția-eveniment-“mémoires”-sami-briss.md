@@ -1,5 +1,5 @@
 ---
-title: Expoziția-Eveniment “MÉMOIRES”  Sami Briss
+title: Expoziția-Eveniment “MÉMOIRES”  Samy Briss
 date: 2023-07-26T15:43:21.137Z
 description: this is meta description
 bgImage: /images/363732405_789536159341295_6432781549232322407_n.jpg
