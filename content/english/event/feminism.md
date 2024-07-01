@@ -1,6 +1,6 @@
 ---
 title: '"Feminism"'
-date: 2024-07-01T12:53:30.212Z
+date: 2021-09-21T12:53:30.212Z
 description: this is a meta description
 bgImage: /images/img_6092.jpg
 image: /images/16317970765937028312701798146367.jpg
